@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "An old crate. Might still be something in there."
+  }
+]

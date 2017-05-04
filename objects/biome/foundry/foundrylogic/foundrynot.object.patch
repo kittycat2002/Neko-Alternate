@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "<A /'Not'/ switch. Inverts the input on the circuit.>"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "This pillar sure is interesting."
+  }
+]

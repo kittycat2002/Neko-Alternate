@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "A pretty little pendulum clock. The pendulum swings but the time doesn't seem to change."
+  }
+]

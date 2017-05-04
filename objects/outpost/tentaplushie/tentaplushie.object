@@ -1,0 +1,22 @@
+{
+	"objectName" : "tentaplushie",
+	"colonyTags" : [ "neko" ],
+	"rarity" : "Legendary",
+	"category" : "decorative",
+	"price" : 100,
+	"description" : "Tentacle plushie, bite it.",
+	"shortdescription" : "Tentacle Plushie",
+	"race" : "neko",
+	"nekoDescription" : "Cuddle with it and bite it. It's not real.",
+	"inventoryIcon" : "tentaplushie.png:tentacle.icon",
+	"orientations" : [
+		{
+			"dualImage" : "tentaplushie.png:tentacle",
+			"imagePosition" : [-8, 0],
+			"frames" : 1,
+			"animationCycle" : 0.4,
+			"spaceScan" : 0.1,
+			"anchors" : [ "bottom" ]
+		}
+	]
+}

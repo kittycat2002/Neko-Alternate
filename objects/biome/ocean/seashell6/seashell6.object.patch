@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "This seashell was once home to an alien creature. Now it has pixels inside!"
+  }
+]

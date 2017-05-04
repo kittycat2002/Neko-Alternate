@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "My ship's sensors suggest this map is all wrong."
+  }
+]

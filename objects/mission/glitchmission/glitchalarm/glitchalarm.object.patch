@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "This alarm bell is pretty basic, but it works!"
+  }
+]

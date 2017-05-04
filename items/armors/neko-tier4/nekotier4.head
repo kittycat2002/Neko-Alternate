@@ -1,0 +1,40 @@
+{
+	"itemName" : "nekotier4head",
+	"inventoryIcon" : "icons.png:head",
+	"maxStack" : 1,
+	"price" : 2400,
+	"rarity" : "Rare",
+	"description" : "The normal wear for the arctic explorer.",
+	"shortdescription" : "Arctic headwear",
+	"tooltipKind" : "armor",
+	"category" : "headarmour",
+	"maleFrames" : "head.png",
+	"femaleFrames" : "head.png",
+	"mask" : "mask.png",
+  "level" : 4,
+  "leveledStatusEffects" : [
+    {
+      "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.151337
+    },
+    {
+      "levelFunction" : "standardArmorLevelProtectionMultiplier",
+      "stat" : "protection",
+      "amount" : 0.3
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
+      "stat" : "maxEnergy",
+      "amount" : 3
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
+      "stat" : "maxHealth",
+      "amount" : 3
+    }
+  ],
+
+  "itemTags" : [ "tier4armour" ]
+
+}

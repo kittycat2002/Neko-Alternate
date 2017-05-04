@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "Some sort of blueprint is inside this thing!"
+  }
+]

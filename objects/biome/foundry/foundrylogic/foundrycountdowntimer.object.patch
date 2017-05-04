@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "<A timer that stays active for a set duration.>"
+  }
+]

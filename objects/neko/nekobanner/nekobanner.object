@@ -1,0 +1,23 @@
+{
+	"objectName" : "nekobanner",
+	"colonyTags" : [ "neko", "cancer" ],
+	"rarity" : "Common",
+	"description" : "A neko banner made from cheap but sturdy fabric.",
+	"shortdescription" : "Large neko Banner",
+	"race" : "neko",
+	"avianDescription" : "I feel like the cats stole this concept from us.",
+	"category" : "decorative",
+	"price" : 50,
+	"inventoryIcon" : "nekobannericon.png",
+	"retainObjectParametersInItem" : true,
+	"orientations" : [
+		{
+			"dualImage" : "nekobanner.png:<color>",
+			"imagePosition" : [-8, -24],
+			"frames" : 1,
+			"animationCycle" : 1.0,
+			"spaceScan" : 0.1,
+			"bgAnchors" : [ [0, 0], [-1, 0] ]
+		}
+	]
+}

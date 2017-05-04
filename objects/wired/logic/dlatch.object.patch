@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "A Latch. Can be used to store a wire state."
+  }
+]

@@ -1,0 +1,45 @@
+{
+	"itemName" : "nekotier3chest",
+	"inventoryIcon" : "icons.png:chest",
+	"maxStack" : 1,
+	"price" : 3200,
+	"rarity" : "Uncommon",
+	"description" : "This type of chestpiece has gone into a symbiosis with the tentacles on the hands. Increased damage.",
+	"shortdescription" : "Neko Tier 3 Chest",
+	"tooltipKind" : "armor",
+	"category" : "chestarmour",
+	"maleFrames" : {
+		"body" : "chestm.png",
+		"backSleeve" : "bsleeve.png",
+		"frontSleeve" : "fsleeve.png"
+	},
+	"femaleFrames" : {
+		"body" : "chestf.png",
+		"backSleeve" : "bsleeve.png",
+		"frontSleeve" : "fsleeve.png"
+	},
+	"level" : 3,
+	"leveledStatusEffects" : [
+		{
+			"levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+			"stat" : "powerMultiplier",
+			"baseMultiplier" : 1.251337
+		},
+		{
+			"levelFunction" : "standardArmorLevelProtectionMultiplier",
+			"stat" : "protection",
+			"amount" : 0.4
+		},
+		{
+			"levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
+			"stat" : "maxEnergy",
+			"amount" : 5
+		},
+		{
+			"levelFunction" : "standardArmorLevelMaxHealthMultiplier",
+			"stat" : "maxHealth",
+			"amount" : 5.5
+		}
+	],
+	"itemTags" : [ "tier3armour" ]
+}

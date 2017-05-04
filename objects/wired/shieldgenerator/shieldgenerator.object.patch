@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "If I flip this switch it will turn the shield generator on and off."
+  }
+]

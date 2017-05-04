@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "<An /'And'/ switch. Requires all inputs to be /'on'/ to work.>"
+  }
+]

@@ -1,0 +1,11 @@
+[
+	{ "op" : "add",
+		"path" : "/species/neko",
+		//what is this?
+		"value" : {
+			"aiFrames" : "nekoai.png",
+			"portraitFrames" : "portraits/nekoportrait.png",
+			"staticFrames" : "staticneko.png"
+		}
+	}
+]

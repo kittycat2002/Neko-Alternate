@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "This door creates a one-way force field. Anyone going through isn't coming back the same way..."
+  }
+]

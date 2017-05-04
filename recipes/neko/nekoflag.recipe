@@ -1,0 +1,8 @@
+{
+	"input" : [
+		{ "item" : "copperbar", "count" : 1 },
+		{ "item" : "fabric", "count" : 20 }
+	],
+	"output" : { "item" : "nekoflag", "count" : 1 },
+	"groups" : [ "plain", "all" ]
+}

@@ -1,0 +1,31 @@
+{
+  "objectName" : "chocolaplushie",
+  "colonyTags" : ["neko"],
+  "rarity" : "Legendary",
+  "category" : "decorative",
+  "price" : 100,
+  "printable" : false,
+  "description" : "Chocola-chan.",
+  "shortdescription" : "Chocola Plushie",
+
+  "inventoryIcon" : "chocolaplushie.png",
+  "orientations" : [
+    {
+      "image" : "chocolaplushie.png:<color>",
+      "imagePosition" : [-2, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "chocolaplushie.png:<color>",
+      "imagePosition" : [-2, 0],
+      "direction" : "right",
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

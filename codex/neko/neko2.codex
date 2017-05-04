@@ -1,0 +1,15 @@
+{
+	"id" : "neko2",
+	"title" : "Scientific journal of this so called nekos",
+	"description" : "...",
+	"icon" : "nekoprotectorate.png",
+	"contentPages" : [
+		"Somehow this species is very durable and adaptable in cold climates.",
+		"I'm simply observing them right now but they seem to be somewhat friendly but I sense something odd about the females and why there are so many of them...",
+		"Needs more observations."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

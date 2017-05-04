@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "A teleporter! Too bad it isn't powered up."
+  }
+]

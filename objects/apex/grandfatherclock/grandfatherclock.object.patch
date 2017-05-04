@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "The sound this clock makes can be both ominous and soothing."
+  }
+]

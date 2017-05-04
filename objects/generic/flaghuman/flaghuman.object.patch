@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "This human flag can be saved as a location for my teleporter. Then I can return to it at any time."
+  }
+]

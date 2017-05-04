@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "This displays an... Apex? What is this doing here?"
+  }
+]

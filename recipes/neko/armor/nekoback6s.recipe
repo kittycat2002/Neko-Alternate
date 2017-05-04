@@ -1,0 +1,9 @@
+{
+	"input" : [
+		{ "item" : "solariumstar", "count" : 1 },
+		{ "item" : "nekotier5spants", "count" : 1 }
+	],
+	"duration" : 5,
+	"output" : { "item" : "nekotier6sback", "count" : 1 },
+	"groups" : [ "craftingseparator", "armours", "all" ]
+}

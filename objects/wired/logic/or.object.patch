@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "An /'OR'/ switch. Allows you to have multiple individual inputs."
+  }
+]

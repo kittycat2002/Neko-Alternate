@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "It's a teleporter! If I mark it I should be able to return here from a different teleporter whenever I like."
+  }
+]

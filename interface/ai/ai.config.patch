@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace", 
+    "path": "/guiConfig/windowtitle/title", 
+    "value": "TALVIKKI"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/windowtitle/subtitle",
+    "value":"Talv = Winter in Finnish. Plant name Pyrola, Wintergreen."
+  },
+    // http://www.behindaname.com/meaning-of-names/name_TALVIKKI.php some fun stuff I just looked up for fun.
+    // Is not accurate in any way but it's like a cool little gag you can use.
+    // She whom the world leans on. Pretty deep stuff m8.
+  {
+    "op": "replace",
+    "path" : "/guiConfig/windowtitle/icon/file",
+    "value" : "/interface/ai/TALVIKKIicon.png"
+  }  
+]

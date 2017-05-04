@@ -1,0 +1,38 @@
+{
+	"itemName" : "nekotier1head",
+	"inventoryIcon" : "icons.png:head",
+	"maxStack" : 1,
+	"price" : 480,
+	"rarity" : "Common",
+	"description" : "Able to filter out even the most pesky of biohazardous materials.",
+	"shortdescription" : "Neko tier 1 head",
+	"tooltipKind" : "armor",
+	"category" : "headarmour",
+	"maleFrames" : "head.png",
+	"femaleFrames" : "head.png",
+	"mask" : "mask.png",
+	"level" : 1,
+	"leveledStatusEffects" : [
+		{
+			"levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+			"stat" : "powerMultiplier",
+			"baseMultiplier" : 1.15
+		},
+		{
+			"levelFunction" : "standardArmorLevelProtectionMultiplier",
+			"stat" : "protection",
+			"amount" : 0.3
+		},
+		{
+			"levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
+			"stat" : "maxEnergy",
+			"amount" : 3
+		},
+		{
+			"levelFunction" : "standardArmorLevelMaxHealthMultiplier",
+			"stat" : "maxHealth",
+			"amount" : 3
+		}
+	],
+	"itemTags" : [ "tier1armour" ]
+}

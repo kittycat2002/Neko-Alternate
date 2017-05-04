@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "An /'XOR'/ switch. Requires one input to be on, and one off."
+  }
+]

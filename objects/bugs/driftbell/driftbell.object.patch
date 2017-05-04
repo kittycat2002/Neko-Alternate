@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "This bug makes a faint ringing sound as it flies through the air."
+  }
+]

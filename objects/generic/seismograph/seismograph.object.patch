@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "This thing is monitoring seismic activity. Pretty neat."
+  }
+]

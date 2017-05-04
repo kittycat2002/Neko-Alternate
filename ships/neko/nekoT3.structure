@@ -1,0 +1,24 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "maxFuel" : 1000,
+      "crewSize" : 2
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "nekoT3.png",
+      "position" : [8, 14],
+      "fullbright" : true
+    },
+    {
+      "image" : "nekoT3lit.png",
+      "position" : [8, 14]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "nekoT3blocks.png"
+}

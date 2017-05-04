@@ -1,0 +1,31 @@
+{
+  "objectName" : "coconutplushie",
+  "colonyTags" : ["neko"],
+  "rarity" : "Legendary",
+  "category" : "decorative",
+  "price" : 100,
+  "printable" : false,
+  "description" : "Coconut-chan.",
+  "shortdescription" : "Coconut Plushie",
+
+  "inventoryIcon" : "coconutplushie.png",
+  "orientations" : [
+    {
+      "image" : "coconutplushie.png:<color>",
+      "imagePosition" : [-2, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "coconutplushie.png:<color>",
+      "imagePosition" : [-2, 0],
+      "direction" : "right",
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

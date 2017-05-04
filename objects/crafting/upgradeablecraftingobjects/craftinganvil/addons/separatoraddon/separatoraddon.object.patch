@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "Using this adds extra melee equipment and armour to the replicator!"
+  }
+]

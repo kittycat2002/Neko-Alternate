@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "refinedviolium", "count" : 60 },
+    { "item" : "solariumstar", "count" : 60 }
+  ],
+  "output" : { "item" : "nekowarmongerchest", "count" : 1 },
+  "groups" : [ "craftingseparator", "craftingmanipulator", "craftingaccelerator", "armours", "all" ]
+}

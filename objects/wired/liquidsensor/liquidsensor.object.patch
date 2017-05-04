@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "Don't use your finger! This trusty sensor indicates the presence of liquids."
+  }
+]

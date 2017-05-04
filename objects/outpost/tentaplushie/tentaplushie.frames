@@ -1,0 +1,10 @@
+{
+	"frameGrid" : {
+		"size" : [16, 16],
+		"dimensions" : [5, 2],
+		"names" : [
+			[ "tentacle" ],
+			[ "tentacle.icon" ]
+		]
+	}
+}

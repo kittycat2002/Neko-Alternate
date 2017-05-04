@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "Is a blue alert different from a red alert emergency?"
+  }
+]

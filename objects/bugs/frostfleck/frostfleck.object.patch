@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "This bug is easily mistaken for a snowflake."
+  }
+]

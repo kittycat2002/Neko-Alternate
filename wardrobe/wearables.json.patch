@@ -1,0 +1,2980 @@
+[
+  {
+    "op": "add",
+    "path": "/head/-",
+    "value": {
+      "name": "nekotier1head",
+      "shortdescription": "Neko tier 1 head",
+      "category": "head",
+      "path": "/items/armors/neko-tier1/",
+      "icon": "icons.png:head",
+      "fileName": "nekotier1.head",
+      "maleFrames": "head.png",
+      "femaleFrames": "head.png",
+      "mask": "mask.png",
+      "rarity": "common"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/head/-",
+    "value": {
+      "name": "nekotier2head",
+      "shortdescription": "Neko tier 2 Headset",
+      "category": "head",
+      "path": "/items/armors/neko-tier2/",
+      "icon": "icons.png:head",
+      "fileName": "nekotier2.head",
+      "maleFrames": "head.png",
+      "femaleFrames": "head.png",
+      "mask": "mask.png",
+      "rarity": "common",
+      "colorOptions": [
+        {
+          "ffca8a": "a2bcc8",
+          "e0975c": "608ca0",
+          "a85636": "405d6a",
+          "6f2919": "24333a"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/head/-",
+    "value": {
+      "name": "nekotier3head",
+      "shortdescription": "Neko Tier 3 Helm",
+      "category": "head",
+      "path": "/items/armors/neko-tier3/",
+      "icon": "icons.png:head",
+      "fileName": "nekotier3.head",
+      "maleFrames": "head.png",
+      "femaleFrames": "head.png",
+      "mask": "mask.png",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/head/-",
+    "value": {
+      "name": "nekotier4head",
+      "shortdescription": "Arctic headwear",
+      "category": "head",
+      "path": "/items/armors/neko-tier4/",
+      "icon": "icons.png:head",
+      "fileName": "nekotier4.head",
+      "maleFrames": "head.png",
+      "femaleFrames": "head.png",
+      "mask": "mask.png",
+      "rarity": "rare"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/head/-",
+    "value": {
+      "name": "nekotier5ahead",
+      "shortdescription": "Tiger Helmet",
+      "category": "head",
+      "path": "/items/armors/neko-tier5accelerator/",
+      "icon": "icons.png:head",
+      "fileName": "nekotier5accelerator.head",
+      "maleFrames": "head.png",
+      "femaleFrames": "head.png",
+      "mask": "mask.png",
+      "rarity": "rare",
+      "colorOptions": [
+        {
+          "ffca8a": "d1e160",
+          "e0975c": "9bba3d",
+          "a85636": "48832f",
+          "6f2919": "1b4c2a"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/head/-",
+    "value": {
+      "name": "nekotier5mhead",
+      "shortdescription": "Cheetah Helm",
+      "category": "head",
+      "path": "/items/armors/neko-tier5manipulator/",
+      "icon": "icons.png:head",
+      "fileName": "nekotier5manipulator.head",
+      "maleFrames": "head.png",
+      "femaleFrames": "head.png",
+      "mask": "mask.png",
+      "rarity": "legendary",
+      "colorOptions": [
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/head/-",
+    "value": {
+      "name": "nekotier5shead",
+      "shortdescription": "Puma Mask",
+      "category": "head",
+      "path": "/items/armors/neko-tier5separator/",
+      "icon": "icons.png:head",
+      "fileName": "nekotier5separator.head",
+      "maleFrames": "head.png",
+      "femaleFrames": "head.png",
+      "mask": "mask.png",
+      "rarity": "legendary",
+      "colorOptions": [
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/head/-",
+    "value": {
+      "name": "nekotier6ahead",
+      "shortdescription": "Panther Mask",
+      "category": "head",
+      "path": "/items/armors/neko-tier6accelerator/",
+      "icon": "icons.png:head",
+      "fileName": "nekotier6accelerator.head",
+      "maleFrames": "head.png",
+      "femaleFrames": "head.png",
+      "mask": "mask.png",
+      "rarity": "legendary",
+      "colorOptions": [
+        {
+          "ffca8a": "a8e6e2",
+          "e0975c": "4facb2",
+          "a85636": "30636c",
+          "6f2919": "233c43"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/head/-",
+    "value": {
+      "name": "nekotier6mhead",
+      "shortdescription": "Neko tier 6 m. Head",
+      "category": "head",
+      "path": "/items/armors/neko-tier6manipulator/",
+      "icon": "icons.png:head",
+      "fileName": "nekotier6manipulator.head",
+      "maleFrames": "head.png",
+      "femaleFrames": "head.png",
+      "mask": "mask.png",
+      "rarity": "legendary",
+      "colorOptions": [
+        {
+          "ffca8a": "664a4a",
+          "e0975c": "453333",
+          "a85636": "261e1e",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/head/-",
+    "value": {
+      "name": "nekotier6shead",
+      "shortdescription": "Neko tier 6 s. Hat",
+      "category": "head",
+      "path": "/items/armors/neko-tier6separator/",
+      "icon": "headicon.png",
+      "fileName": "nekotier6separator.head",
+      "maleFrames": "head.png",
+      "femaleFrames": "head.png",
+      "mask": "mask.png",
+      "rarity": "rare"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/head/-",
+    "value": {
+      "name": "catgirlhead",
+      "shortdescription": "Cosplay Cat Ears",
+      "category": "head",
+      "path": "/items/armors/nekocatears/",
+      "icon": "icons.png:head",
+      "fileName": "catgirl.head",
+      "maleFrames": "head.png",
+      "femaleFrames": "head.png",
+      "mask": "mask.png",
+      "rarity": "common",
+      "colorOptions": [
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/head/-",
+    "value": {
+      "name": "nekowarmongerhead",
+      "shortdescription": "Warmongerers Helmet",
+      "category": "head",
+      "path": "/items/armors/nekowarmonger/",
+      "icon": "icons.png:head",
+      "fileName": "nwmh.head",
+      "maleFrames": "headm.png",
+      "femaleFrames": "headf.png",
+      "mask": "mask.png",
+      "rarity": "legendary"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/chest/-",
+    "value": {
+      "name": "nekotier1chest",
+      "shortdescription": "Neko tier 1 chestpiece",
+      "category": "chest",
+      "path": "/items/armors/neko-tier1/",
+      "icon": "icons.png:chest",
+      "fileName": "nekotier1.chest",
+      "maleFrames": {
+        "body": "chestm.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "femaleFrames": {
+        "body": "chestf.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "mask": null,
+      "rarity": "common"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/chest/-",
+    "value": {
+      "name": "nekotier2chest",
+      "shortdescription": "Neko tier 2 Chestpiece",
+      "category": "chest",
+      "path": "/items/armors/neko-tier2/",
+      "icon": "icons.png:chest",
+      "fileName": "nekotier2.chest",
+      "maleFrames": {
+        "body": "chestm.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "femaleFrames": {
+        "body": "chestf.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "mask": null,
+      "rarity": "common",
+      "colorOptions": [
+        {
+          "ffca8a": "a2bcc8",
+          "e0975c": "608ca0",
+          "a85636": "405d6a",
+          "6f2919": "24333a"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/chest/-",
+    "value": {
+      "name": "nekotier3chest",
+      "shortdescription": "Neko Tier 3 Chest",
+      "category": "chest",
+      "path": "/items/armors/neko-tier3/",
+      "icon": "icons.png:chest",
+      "fileName": "nekotier3.chest",
+      "maleFrames": {
+        "body": "chestm.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "femaleFrames": {
+        "body": "chestf.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "mask": null,
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/chest/-",
+    "value": {
+      "name": "nekotier4chest",
+      "shortdescription": "Arctic chestpiece",
+      "category": "chest",
+      "path": "/items/armors/neko-tier4/",
+      "icon": "icons.png:chest",
+      "fileName": "nekotier4.chest",
+      "maleFrames": {
+        "body": "chest.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "femaleFrames": {
+        "body": "chest.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "mask": null,
+      "rarity": "rare"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/chest/-",
+    "value": {
+      "name": "nekotier5achest",
+      "shortdescription": "Tiger Breastplate",
+      "category": "chest",
+      "path": "/items/armors/neko-tier5accelerator/",
+      "icon": "icons.png:chest",
+      "fileName": "nekotier5accelerator.chest",
+      "maleFrames": {
+        "body": "chestm.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "femaleFrames": {
+        "body": "chestf.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "mask": null,
+      "rarity": "rare",
+      "colorOptions": [
+        {
+          "ffca8a": "d1e160",
+          "e0975c": "9bba3d",
+          "a85636": "48832f",
+          "6f2919": "1b4c2a"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/chest/-",
+    "value": {
+      "name": "nekotier5mchest",
+      "shortdescription": "Cheetah Plate",
+      "category": "chest",
+      "path": "/items/armors/neko-tier5manipulator/",
+      "icon": "icons.png:chest",
+      "fileName": "nekotier5manipulator.chest",
+      "maleFrames": {
+        "body": "chestm.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "femaleFrames": {
+        "body": "chestf.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "mask": null,
+      "rarity": "legendary",
+      "colorOptions": [
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/chest/-",
+    "value": {
+      "name": "nekotier5schest",
+      "shortdescription": "Puma Breastplate",
+      "category": "chest",
+      "path": "/items/armors/neko-tier5separator/",
+      "icon": "icons.png:chest",
+      "fileName": "nekotier5separator.chest",
+      "maleFrames": {
+        "body": "chestm.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "femaleFrames": {
+        "body": "chestf.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "mask": null,
+      "rarity": "legendary",
+      "colorOptions": [
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/chest/-",
+    "value": {
+      "name": "nekotier6achest",
+      "shortdescription": "Panther Breastplate",
+      "category": "chest",
+      "path": "/items/armors/neko-tier6accelerator/",
+      "icon": "icons.png:chest",
+      "fileName": "nekotier6accelerator.chest",
+      "maleFrames": {
+        "body": "chestm.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "femaleFrames": {
+        "body": "chestf.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "mask": null,
+      "rarity": "legendary",
+      "colorOptions": [
+        {
+          "ffca8a": "a8e6e2",
+          "e0975c": "4facb2",
+          "a85636": "30636c",
+          "6f2919": "233c43"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/chest/-",
+    "value": {
+      "name": "nekotier6mchest",
+      "shortdescription": "Neko tier 6 m. Chest",
+      "category": "chest",
+      "path": "/items/armors/neko-tier6manipulator/",
+      "icon": "icons.png:chest",
+      "fileName": "nekotier6manipulator.chest",
+      "maleFrames": {
+        "body": "chestm.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "femaleFrames": {
+        "body": "chestf.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "mask": null,
+      "rarity": "legendary",
+      "colorOptions": [
+        {
+          "ffca8a": "664a4a",
+          "e0975c": "453333",
+          "a85636": "261e1e",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/chest/-",
+    "value": {
+      "name": "nekotier6schest",
+      "shortdescription": "Neko tier 6 s. Breastplate",
+      "category": "chest",
+      "path": "/items/armors/neko-tier6separator/",
+      "icon": "icons.png:chest",
+      "fileName": "nekotier6separator.chest",
+      "maleFrames": {
+        "body": "chestm.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "femaleFrames": {
+        "body": "chestf.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "mask": null,
+      "rarity": "rare"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/chest/-",
+    "value": {
+      "name": "nekocrafterchest",
+      "shortdescription": "Crafter Shirt",
+      "category": "chest",
+      "path": "/items/armors/nekocrafter/",
+      "icon": "icons.png:chest",
+      "fileName": "nekocrafter.chest",
+      "maleFrames": {
+        "body": "chestm.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "femaleFrames": {
+        "body": "chestf.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "mask": null,
+      "rarity": "common",
+      "colorOptions": [
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/chest/-",
+    "value": {
+      "name": "nekonoblechest",
+      "shortdescription": "Noble's chest",
+      "category": "chest",
+      "path": "/items/armors/nekonoble/",
+      "icon": "icons.png:chest",
+      "fileName": "nekonoble.chest",
+      "maleFrames": {
+        "body": "chestm.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "femaleFrames": {
+        "body": "chestf.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "mask": null,
+      "rarity": "common",
+      "colorOptions": [
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/chest/-",
+    "value": {
+      "name": "nekoriderchest",
+      "shortdescription": "neko Riding Jacket",
+      "category": "chest",
+      "path": "/items/armors/nekorider/",
+      "icon": "icons.png:chest",
+      "fileName": "nekorider.chest",
+      "maleFrames": {
+        "body": "chest.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "femaleFrames": {
+        "body": "chest.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "mask": null,
+      "rarity": "common",
+      "colorOptions": [
+        {
+          "ffca8a": "372355",
+          "e0975c": "2b1434",
+          "a85636": "220c22",
+          "6f2919": "080207"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/chest/-",
+    "value": {
+      "name": "nekowarmongerchest",
+      "shortdescription": "Warmongerers Chestpiece",
+      "category": "chest",
+      "path": "/items/armors/nekowarmonger/",
+      "icon": "icons.png:chest",
+      "fileName": "nwmc.chest",
+      "maleFrames": {
+        "body": "chestm.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "femaleFrames": {
+        "body": "chestf.png",
+        "backSleeve": "bsleeve.png",
+        "frontSleeve": "fsleeve.png"
+      },
+      "mask": null,
+      "rarity": "legendary"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/legs/-",
+    "value": {
+      "name": "nekotier1pants",
+      "shortdescription": "Neko tier 1 Pants",
+      "category": "legs",
+      "path": "/items/armors/neko-tier1/",
+      "icon": "icons.png:pants",
+      "fileName": "nekotier1.legs",
+      "maleFrames": "pants.png",
+      "femaleFrames": "pants.png",
+      "mask": null,
+      "rarity": "common"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/legs/-",
+    "value": {
+      "name": "nekotier2pants",
+      "shortdescription": "Neko tier 2 Pants",
+      "category": "legs",
+      "path": "/items/armors/neko-tier2/",
+      "icon": "icons.png:pants",
+      "fileName": "nekotier2.legs",
+      "maleFrames": "pants.png",
+      "femaleFrames": "pants.png",
+      "mask": null,
+      "rarity": "common",
+      "colorOptions": [
+        {
+          "ffca8a": "a2bcc8",
+          "e0975c": "608ca0",
+          "a85636": "405d6a",
+          "6f2919": "24333a"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/legs/-",
+    "value": {
+      "name": "nekotier3pants",
+      "shortdescription": "Neko Tier 3 Pants",
+      "category": "legs",
+      "path": "/items/armors/neko-tier3/",
+      "icon": "icons.png:pants",
+      "fileName": "nekotier3.legs",
+      "maleFrames": "pants.png",
+      "femaleFrames": "pants.png",
+      "mask": null,
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/legs/-",
+    "value": {
+      "name": "nekotier4pants",
+      "shortdescription": "Arctic pants",
+      "category": "legs",
+      "path": "/items/armors/neko-tier4/",
+      "icon": "icons.png:pants",
+      "fileName": "nekotier4.legs",
+      "maleFrames": "pants.png",
+      "femaleFrames": "pants.png",
+      "mask": null,
+      "rarity": "rare"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/legs/-",
+    "value": {
+      "name": "nekotier5apants",
+      "shortdescription": "Tiger Trackers",
+      "category": "legs",
+      "path": "/items/armors/neko-tier5accelerator/",
+      "icon": "icons.png:pants",
+      "fileName": "nekotier5accelerator.legs",
+      "maleFrames": "pants.png",
+      "femaleFrames": "pants.png",
+      "mask": null,
+      "rarity": "rare",
+      "colorOptions": [
+        {
+          "ffca8a": "d1e160",
+          "e0975c": "9bba3d",
+          "a85636": "48832f",
+          "6f2919": "1b4c2a"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/legs/-",
+    "value": {
+      "name": "nekotier5mpants",
+      "shortdescription": "Cheetah Boots",
+      "category": "legs",
+      "path": "/items/armors/neko-tier5manipulator/",
+      "icon": "icons.png:pants",
+      "fileName": "nekotier5manipulator.legs",
+      "maleFrames": "pants.png",
+      "femaleFrames": "pants.png",
+      "mask": null,
+      "rarity": "legendary",
+      "colorOptions": [
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/legs/-",
+    "value": {
+      "name": "nekotier5spants",
+      "shortdescription": "Puma Leggings",
+      "category": "legs",
+      "path": "/items/armors/neko-tier5separator/",
+      "icon": "icons.png:pants",
+      "fileName": "nekotier5separator.legs",
+      "maleFrames": "pants.png",
+      "femaleFrames": "pants.png",
+      "mask": null,
+      "rarity": "legendary",
+      "colorOptions": [
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/legs/-",
+    "value": {
+      "name": "nekotier6apants",
+      "shortdescription": "Panther Leggings",
+      "category": "legs",
+      "path": "/items/armors/neko-tier6accelerator/",
+      "icon": "icons.png:pants",
+      "fileName": "nekotier6accelerator.legs",
+      "maleFrames": "pants.png",
+      "femaleFrames": "pants.png",
+      "mask": null,
+      "rarity": "legendary",
+      "colorOptions": [
+        {
+          "ffca8a": "a8e6e2",
+          "e0975c": "4facb2",
+          "a85636": "30636c",
+          "6f2919": "233c43"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/legs/-",
+    "value": {
+      "name": "nekotier6mpants",
+      "shortdescription": "Neko tier 6 m. Legs",
+      "category": "legs",
+      "path": "/items/armors/neko-tier6manipulator/",
+      "icon": "icons.png:pants",
+      "fileName": "nekotier6manipulator.legs",
+      "maleFrames": "pants.png",
+      "femaleFrames": "pants.png",
+      "mask": null,
+      "rarity": "legendary",
+      "colorOptions": [
+        {
+          "ffca8a": "664a4a",
+          "e0975c": "453333",
+          "a85636": "261e1e",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/legs/-",
+    "value": {
+      "name": "nekotier6spants",
+      "shortdescription": "Neko tier 6 s. Leggings",
+      "category": "legs",
+      "path": "/items/armors/neko-tier6separator/",
+      "icon": "icons.png:pants",
+      "fileName": "nekotier6separator.legs",
+      "maleFrames": "pants.png",
+      "femaleFrames": "pants.png",
+      "mask": null,
+      "rarity": "rare"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/legs/-",
+    "value": {
+      "name": "nekocrafterlegs",
+      "shortdescription": "Crafter Pants",
+      "category": "legs",
+      "path": "/items/armors/nekocrafter/",
+      "icon": "icons.png:pants",
+      "fileName": "nekocrafter.legs",
+      "maleFrames": "pants.png",
+      "femaleFrames": "pants.png",
+      "mask": null,
+      "rarity": "common",
+      "colorOptions": [
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/legs/-",
+    "value": {
+      "name": "nekojeans1legs",
+      "shortdescription": "neko Short Lowriders",
+      "category": "legs",
+      "path": "/items/armors/nekojeans1/",
+      "icon": "icons.png:pants",
+      "fileName": "nekojeans1.legs",
+      "maleFrames": "pants.png",
+      "femaleFrames": "pants.png",
+      "mask": null,
+      "rarity": "common",
+      "colorOptions": [
+        {
+          "ffca8a": "a9b1cd",
+          "e0975c": "8692b8",
+          "a85636": "606a8a",
+          "6f2919": "4f5567"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/legs/-",
+    "value": {
+      "name": "nekojeans2legs",
+      "shortdescription": "neko Baggy Lowriders",
+      "category": "legs",
+      "path": "/items/armors/nekojeans2/",
+      "icon": "icons.png:pants",
+      "fileName": "nekojeans2.legs",
+      "maleFrames": "pants.png",
+      "femaleFrames": "pants.png",
+      "mask": null,
+      "rarity": "common",
+      "colorOptions": [
+        {
+          "ffca8a": "a9b1cd",
+          "e0975c": "8692b8",
+          "a85636": "606a8a",
+          "6f2919": "4f5567"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/legs/-",
+    "value": {
+      "name": "nekonoblelegs",
+      "shortdescription": "Noble's legs",
+      "category": "legs",
+      "path": "/items/armors/nekonoble/",
+      "icon": "icons.png:pants",
+      "fileName": "nekonoble.legs",
+      "maleFrames": "pantsm.png",
+      "femaleFrames": "pantsf.png",
+      "mask": null,
+      "rarity": "common",
+      "colorOptions": [
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/legs/-",
+    "value": {
+      "name": "nekoriderlegs",
+      "shortdescription": "neko Riding Pants",
+      "category": "legs",
+      "path": "/items/armors/nekorider/",
+      "icon": "icons.png:pants",
+      "fileName": "nekorider.legs",
+      "maleFrames": "pants.png",
+      "femaleFrames": "pants.png",
+      "mask": null,
+      "rarity": "common",
+      "colorOptions": [
+        {
+          "ffca8a": "372355",
+          "e0975c": "2b1434",
+          "a85636": "220c22",
+          "6f2919": "080207"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/legs/-",
+    "value": {
+      "name": "nekowarmongergeaves",
+      "shortdescription": "Warmongerer Greaves",
+      "category": "legs",
+      "path": "/items/armors/nekowarmonger/",
+      "icon": "icons.png:pants",
+      "fileName": "nwmg.legs",
+      "maleFrames": "pantsm.png",
+      "femaleFrames": "pantsf.png",
+      "mask": null,
+      "rarity": "legendary"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/back/-",
+    "value": {
+      "name": "nekotier2back",
+      "shortdescription": "Neko tier 2. back",
+      "category": "back",
+      "path": "/items/armors/neko-tier2/",
+      "icon": "icons.png:back",
+      "fileName": "nekotier2.back",
+      "maleFrames": "back.png",
+      "femaleFrames": "back.png",
+      "mask": null,
+      "rarity": "rare",
+      "colorOptions": [
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/back/-",
+    "value": {
+      "name": "nekotier6sback",
+      "shortdescription": "Optic Nerve",
+      "category": "back",
+      "path": "/items/armors/neko-tier6separator/",
+      "icon": "icons.png:back",
+      "fileName": "nekotier6separator.back",
+      "maleFrames": "back.png",
+      "femaleFrames": "back.png",
+      "mask": null,
+      "rarity": "rare"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/back/-",
+    "value": {
+      "name": "catgirlback",
+      "shortdescription": "Cosplay Cat Tail",
+      "category": "back",
+      "path": "/items/armors/nekocatears/",
+      "icon": "icons.png:pants",
+      "fileName": "catgirl.back",
+      "maleFrames": "back.png",
+      "femaleFrames": "back.png",
+      "mask": null,
+      "rarity": "common",
+      "colorOptions": [
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "838383",
+          "e0975c": "555555",
+          "a85636": "383838",
+          "6f2919": "151515"
+        },
+        {
+          "ffca8a": "b5b5b5",
+          "e0975c": "808080",
+          "a85636": "555555",
+          "6f2919": "303030"
+        },
+        {
+          "ffca8a": "e6e6e6",
+          "e0975c": "b6b6b6",
+          "a85636": "7b7b7b",
+          "6f2919": "373737"
+        },
+        {
+          "ffca8a": "f4988c",
+          "e0975c": "d93a3a",
+          "a85636": "932625",
+          "6f2919": "601119"
+        },
+        {
+          "ffca8a": "ffd495",
+          "e0975c": "ea9931",
+          "a85636": "af4e00",
+          "6f2919": "6e2900"
+        },
+        {
+          "ffca8a": "ffffa7",
+          "e0975c": "e2c344",
+          "a85636": "a46e06",
+          "6f2919": "642f00"
+        },
+        {
+          "ffca8a": "b2e89d",
+          "e0975c": "51bd3b",
+          "a85636": "247824",
+          "6f2919": "144216"
+        },
+        {
+          "ffca8a": "96cbe7",
+          "e0975c": "5588d4",
+          "a85636": "344495",
+          "6f2919": "1a1c51"
+        },
+        {
+          "ffca8a": "d29ce7",
+          "e0975c": "a451c4",
+          "a85636": "6a2284",
+          "6f2919": "320c40"
+        },
+        {
+          "ffca8a": "eab3db",
+          "e0975c": "d35eae",
+          "a85636": "97276d",
+          "6f2919": "59163f"
+        },
+        {
+          "ffca8a": "ccae7c",
+          "e0975c": "a47844",
+          "a85636": "754c23",
+          "6f2919": "472b13"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "This monitor doesn't have the greatest picture quality."
+  }
+]

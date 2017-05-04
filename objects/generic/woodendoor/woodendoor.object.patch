@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "The kind of door you'd expect to see on a cottage."
+  }
+]

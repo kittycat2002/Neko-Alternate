@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/neko",
+		"value" : [
+			"/ships/neko/nekoT0.structure",
+			"/ships/neko/nekoT1.structure",
+			"/ships/neko/nekoT2.structure",
+			"/ships/neko/nekoT3.structure",
+			"/ships/neko/nekoT4.structure",
+			"/ships/neko/nekoT5.structure",
+			"/ships/neko/nekoT6.structure",
+			"/ships/neko/nekoT7.structure",
+			"/ships/neko/nekoT8.structure"
+		]
+	}
+]

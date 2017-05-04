@@ -1,0 +1,12 @@
+[
+//Why are the types listed nine times over?
+{"op":"add","path":"/npctypes/-","value":{"type":"nekovisitor","species":["neko"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"nekovisitor","species":["neko"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"nekovisitor","species":["neko"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"nekovisitor","species":["neko"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"nekovisitor","species":["neko"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"nekovisitor","species":["neko"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"nekovisitor","species":["neko"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"nekovisitor","species":["neko"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"nekovisitor","species":["neko"]}}
+]

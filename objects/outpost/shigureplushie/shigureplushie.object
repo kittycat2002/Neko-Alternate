@@ -1,0 +1,31 @@
+{
+  "objectName" : "shigureplushie",
+  "colonyTags" : ["neko"],
+  "rarity" : "Legendary",
+  "category" : "decorative",
+  "price" : 100,
+  "printable" : false,
+  "description" : "Shigure-chan.",
+  "shortdescription" : "Shigure Plushie",
+
+  "inventoryIcon" : "shigureplushie.png",
+  "orientations" : [
+    {
+      "image" : "shigureplush.png:<color>",
+      "imagePosition" : [-2, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "shigureplushie.png:<color>",
+      "imagePosition" : [-2, 0],
+      "direction" : "right",
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

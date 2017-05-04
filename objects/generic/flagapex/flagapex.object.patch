@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "This Apex flag can be saved as a location for my teleporter. Then I can return to it any time."
+  }
+]

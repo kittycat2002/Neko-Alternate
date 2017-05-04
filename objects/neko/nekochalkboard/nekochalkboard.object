@@ -1,0 +1,27 @@
+{
+	"objectName" : "nekochalkboard",
+	"colonyTags" : ["neko"],
+  "itemTags" : ["wallmount"],
+  "printable" : true,
+	"rarity" : "Common",
+	"price" : 100,
+
+	"shortdescription" : "neko chalkboard",
+	"description" : "A schoolroom's board, filled with neko knowledge.",
+	"race" : "neko",
+	"category" : "decorative",
+
+	"nekoDescription" : "Love. Hunt. Be epic.",
+
+	"inventoryIcon" : "nekosign1icon.png",
+	"orientations" : [
+		{
+			"image" : "nekochalkboard.png",
+			"imagePosition" : [-32, -16],
+			"frames" : 1,
+			"animationCycle" : 0.5,
+			"spaceScan" : 0.1,
+			"anchors" : [ "background" ]
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+  "objectName" : "milkplushie",
+  "colonyTags" : ["neko"],
+  "rarity" : "Legendary",
+  "category" : "decorative",
+  "price" : 100,
+  "printable" : false,
+  "description" : "Milk-chan.",
+  "shortdescription" : "Milk Plushie",
+
+  "inventoryIcon" : "milkplushie.png",
+  "orientations" : [
+    {
+      "image" : "milkplushie.png:<color>",
+      "imagePosition" : [-2, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "milkplushie.png:<color>",
+      "imagePosition" : [-2, 0],
+      "direction" : "right",
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

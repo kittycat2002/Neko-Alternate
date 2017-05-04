@@ -1,0 +1,13 @@
+{
+  "name" : "nekoeffect",
+  "effectConfig" : {
+  },
+  
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "nekoeffect.lua"
+  ],
+  "label" : "DeadlychillImmunity, IceImmunity, Modifiers jumpandsprint = 1.337",
+  "icon" : "/interface/statuses/nekoeffect.png"
+}

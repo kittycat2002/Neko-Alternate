@@ -1,0 +1,7 @@
+[
+	{ "op" : "add", "path" : "/species/-", "value" : "neko" },
+	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "nekomirror1" } },
+	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "nekomirror2" } },
+	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "nekomirror3" } },
+	{ "op" : "add", "path" : "/defaultCodexes/neko", "value" : [ "neko1", "neko2" ] }
+]

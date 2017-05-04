@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "An output light. Indicates whether something is on or off."
+  }
+]

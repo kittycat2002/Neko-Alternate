@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/nekoDescription",
+    "value": "The ship's fuel hatch. With fuel for the FTL drive I can explore outside this system."
+  }
+]

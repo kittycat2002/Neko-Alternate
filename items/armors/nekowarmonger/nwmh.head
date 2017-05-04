@@ -1,0 +1,47 @@
+{
+  "itemName" : "nekowarmongerhead",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Symbiosis with tentacles gives massive protection. They help you breathe also. And somehow they give you immunity to lava?",
+  "shortdescription" : "Warmongerers Helmet",
+  "inspectionKind" : "armor",
+  "tooltipKind" : "armor",
+  "maleFrames" : "headm.png",
+  "femaleFrames" : "headf.png",
+  "mask" : "mask.png",
+
+   "statusEffects" : [
+      {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 2.5
+    },
+    {
+      "stat" : "protection",
+      "amount" : 60
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 12
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 66
+   },
+   {
+    "stat" : "breathProtection",
+    "amount" : 1   
+   },
+   {
+    "stat" : "lavaImmunity",
+    "amount" : 1   
+   },
+   {
+   "stat" : "fireStatusImmunity",
+   "amount" : 1
+   }
+ ]
+}

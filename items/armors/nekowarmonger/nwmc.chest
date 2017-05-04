@@ -1,0 +1,47 @@
+{
+  "itemName" : "nekowarmongerchest",
+  "inventoryIcon" : "icons.png:chest",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "This chestpiece is an allarounder, it also gives heat immunity somehow?",
+  "shortdescription" : "Warmongerers Chestpiece",
+  "inspectionKind" : "armor",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+    "statusEffects" : [
+      {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 3.05
+    },
+    {
+      "stat" : "protection",
+      "amount" : 43
+    },
+    {
+      "stat" : "maxEnergy",
+      "amount" : 200
+    },
+    {
+      "stat" : "maxHealth",
+      "amount" : 45
+    },
+   {
+    "stat" : "biomeheatImmunity",
+    "amount" : 1   
+   }
+]
+ 
+}

@@ -1,0 +1,50 @@
+{
+  "itemName" : "nekopilotchest",
+  "price" : 5000,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "chestwear",
+  "description" : "In a good condition, this coat must have seen a lot of flapping.",
+  "shortdescription" : "Pilot's Jacket",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "colorOptions" : [
+    // BLUE
+    { "3da1ff" : "3da1ff", "1b8dc3" : "1b8dc3"},
+    // BLACK
+    { "3da1ff" : "838383", "1b8dc3" : "555555"},
+    // GREY
+    { "3da1ff" : "b5b5b5", "1b8dc3" : "808080"},
+    // WHITE
+    { "3da1ff" : "e6e6e6", "1b8dc3" : "b6b6b6"},
+    // RED
+    { "3da1ff" : "f4988c", "1b8dc3" : "d93a3a"},
+    // ORANGE
+    { "3da1ff" : "ffd495", "1b8dc3" : "ea9931"},
+    // YELLOW
+    { "3da1ff" : "ffffa7", "1b8dc3" : "e2c344"},
+    // GREEN
+    { "3da1ff" : "b2e89d", "1b8dc3" : "51bd3b"},
+    // BLUE
+    { "3da1ff" : "3da1ff", "1b8dc3" : "1b8dc3"},
+    // PURPLE
+    { "3da1ff" : "d29ce7", "1b8dc3" : "a451c4"},
+    // PINK
+    { "3da1ff" : "eab3db", "1b8dc3" : "d35eae"},
+    // BROWN
+    { "3da1ff" : "ccae7c", "1b8dc3" : "a47844"}
+  ]
+}

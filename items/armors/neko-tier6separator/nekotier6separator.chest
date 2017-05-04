@@ -1,0 +1,45 @@
+{
+	"itemName" : "nekotier6schest",
+	"inventoryIcon" : "icons.png:chest",
+	"maxStack" : 1,
+	"price" : 6400,
+	"rarity" : "Rare",
+	"description" : "todo",
+	"shortdescription" : "Neko tier 6 s. Breastplate",
+	"tooltipKind" : "armor",
+	"category" : "chestarmour",
+	"maleFrames" : {
+		"body" : "chestm.png",
+		"backSleeve" : "bsleeve.png",
+		"frontSleeve" : "fsleeve.png"
+	},
+	"femaleFrames" : {
+		"body" : "chestf.png",
+		"backSleeve" : "bsleeve.png",
+		"frontSleeve" : "fsleeve.png"
+	},
+	"level" : 6,
+	"leveledStatusEffects" : [
+		{
+			"levelFunction" : "separatorArmorLevelPowerMultiplierMultiplier",
+			"stat" : "powerMultiplier",
+			"baseMultiplier" : 1.25
+		},
+		{
+			"levelFunction" : "separatorArmorLevelProtectionMultiplier",
+			"stat" : "protection",
+			"amount" : 0.5
+		},
+		{
+			"levelFunction" : "separatorArmorLevelMaxEnergyMultiplier",
+			"stat" : "maxEnergy",
+			"amount" : 5
+		},
+		{
+			"levelFunction" : "separatorArmorLevelMaxHealthMultiplier",
+			"stat" : "maxHealth",
+			"amount" : 5
+		}
+	],
+	"itemTags" : [ "tier6armour" ]
+}

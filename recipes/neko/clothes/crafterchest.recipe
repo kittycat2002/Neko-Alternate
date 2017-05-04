@@ -1,0 +1,9 @@
+{
+	"input" : [
+		{ "item" : "fabric", "count" : 33 },
+		{ "item" : "cottonwool", "count" : 33 }
+	],
+	"duration" : 5,
+	"output" : { "item" : "nekocrafterchest", "count" : 1 },
+	"groups" : [ "craftingwheel", "clothes" ]
+}

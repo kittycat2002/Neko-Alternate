@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "refinedviolium", "count" : 60 },
+    { "item" : "solariumstar", "count" : 600 },
+    { "item" : "battery", "count" : 10 },
+	    { "item" : "rawtentacle", "count" : 10 }
+  ],
+  "output" : { "item" : "nekosword", "count" : 1 },
+  "groups" : [  "craftingseparator", "craftingmanipulator", "craftingaccelerator", "weapons", "all" ]
+}

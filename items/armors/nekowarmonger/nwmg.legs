@@ -1,0 +1,41 @@
+{
+  "itemName" : "nekowarmongergeaves",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "These greaves gives the best protection and effects out there. Provides radiationimmunity",
+  "shortdescription" : "Warmongerer Greaves",
+  "inspectionKind" : "armor",
+    "tooltipKind" : "armor",
+
+  "maleFrames" : "pantsm.png",
+  "femaleFrames" : "pantsf.png",
+
+"statusEffects" : [
+    {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 2.25
+    },
+
+    {
+      "stat" : "protection",
+      "amount" : 21
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 85
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 15
+    },
+	{
+	"stat" : "biomeradiationImmunity",
+	"amount" : 1
+	}
+	
+]
+}
