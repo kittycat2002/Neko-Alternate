@@ -1,12 +1,12 @@
 {
-  "version" : "1.08",
-  "steamContentId" : "913510853",
-  "link" : "steam://url/CommunityFilePage/913510853",
-  "friendlyName" : "Neko Alternate",
-  "requires" : [],
-  "description" : "[b]About:[/b]\nAdds playable Nekos to Starbound.\nThis mod original neko race remake and he conflicts with him.\n\nAlso you can use another character extender and it will be work well.\n\n[b]From original mod:[/b]\n- Set of hairstyles.\n- Unique buff.\n- Armour.\n\n[b]Differences with the original mod:[/b]\n- Ship and ship furniture.\n- Nekosword texture.\n- Nekopara plushies (steam smiles).\n\n[b]In the plans:[/b]\n- Full armour remake (working with it now).\n- More furniture (working with it now).\n- Lore.\n- Bug fixes to perfect state.\n- More differences with original mod.\n\n[b]Special thanks to:[/b]\n[url=http://steamcommunity.com/profiles/76561198003415492/]Fueledbycancer[/url] - original neko mod.\n[url=http://steamcommunity.com/profiles/76561198167801425/]Flogenos[/url] - protectorate ship which i use in this mod with some edits.\n[url=http://steamcommunity.com/id/TheAurablaze]Magebrawler Aura[/url], [url=http://steamcommunity.com/id/thakyz]thakyZ[/url], [url=http://steamcommunity.com/id/aaesos]Aaesos[/url] - for help in finding bugs!\nAnd all peoples who participated in the creation [url=http://steamcommunity.com/sharedfiles/filedetails/?id=730529826&searchtext=neko]Neko Species, Catgrills and Catboois![/url] or whose works were used in.",
-  "name" : "Neko Alternate",
-  "includes" : ["Wardrobe"],
   "author" : "Sanks",
-  "priority" : 999999
+  "description" : "Cat girls in the ocean of stars...\n\n[b]From original mod:[/b]\n- Set of hairstyles.\n- Unique buff.\n- Armour.\n\n[b]Differences with the original mod:[/b]\n- Ship and ship furniture.\n- Nekosword texture.\n- Nekopara plushies (steam smiles).\n\n[b]In the plans:[/b]\n- Full armour remake (working with it now).\n- More furniture (working with it now).\n- Lore.\n- Bug fixes to perfect state.\n- More differences with original mod.\n\n[b]Special thanks to:[/b]\n[url=http://steamcommunity.com/profiles/76561198003415492/]Fueledbycancer[/url] - original neko mod.\n[url=http://steamcommunity.com/profiles/76561198167801425/]Flogenos[/url] - protectorate ship which i use in this mod with some edits.\n[url=http://steamcommunity.com/id/TheAurablaze]Magebrawler Aura[/url], [url=http://steamcommunity.com/id/thakyz]thakyZ[/url], [url=http://steamcommunity.com/id/aaesos]Aaesos[/url] - for help in finding bugs!\nAnd all peoples who participated in the creation [url=http://steamcommunity.com/sharedfiles/filedetails/?id=730529826]Neko Species, Catgrills and Catboois![/url] or whose works were used in.",
+  "friendlyName" : "Neko Alternate",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/913510853",
+  "name" : "Neko Alternate",
+  "priority" : 999999,
+  "requires" : [],
+  "steamContentId" : "913510853",
+  "version" : "1.09"
 }
