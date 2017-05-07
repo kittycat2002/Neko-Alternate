@@ -24,10 +24,10 @@
   "interactAction" : "OpenTeleportDialog",
   "interactData" : "/interface/warping/destinationonly.config",
 
-	"inventoryIcon" : "flagnekoicon.png",
+	"inventoryIcon" : "nekoflagicon.png",
 	"orientations" : [
 		{
-			"image" : "flagneko.png:default.<frame>",
+			"image" : "nekoflag.png:default.<frame>",
 			"flipImages" : true,
 			"direction" : "left",
 			"imagePosition" : [-17, 0],
@@ -38,7 +38,7 @@
 			"anchors" : [ "bottom" ]
 		},
 		{
-			"image" : "flagneko.png:default.<frame>",
+			"image" : "nekoflag.png:default.<frame>",
 			"direction" : "right",
 			"imagePosition" : [1, 0],
 			"frames" : 6,
