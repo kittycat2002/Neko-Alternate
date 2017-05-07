@@ -47,7 +47,7 @@
     "name" : "Neko Slash",
     "type" : "nekoslash",
     "scripts" : ["/items/active/weapons/melee/abilities/broadsword/flipslash/flipslash.lua"],
-    "class" : "NekoSlash",
+    "class" : "FlipSlash",
 
     "cooldownTime" : 0.5,
 
