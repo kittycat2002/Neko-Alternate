@@ -1,5 +1,5 @@
 {
-	"objectName" : "nekoflag",
+	"objectName" : "flagneko",
 	"colonyTags" : [ "neko" ],
 	"printable" : false,
 	"rarity" : "Common",
@@ -47,7 +47,7 @@
 			"spaceScan" : 0.1,
 			"anchors" : [ "bottom" ]
 		}
-	],
+	]
 
 	//"soundEffect" : "/sfx/objects/flag_flap_loop.ogg"
 }

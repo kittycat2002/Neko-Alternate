@@ -16,7 +16,7 @@
    "defaultBlueprints" : {
 		"tier1" : [
 			//Empty hands
-			{ "item" : "nekoflag" },
+			{ "item" : "flagneko" },
 			//Anvil
 			{ "item" : "nekotier1head" },
 			{ "item" : "nekotier1chest" },
@@ -75,7 +75,7 @@
 			{ "item" : "nekobed" },
 			{ "item" : "nekomirror1" },
 			{ "item" : "nekomirror2" },
-			{ "item" : "nekomirror3" }
+			{ "item" : "nekomirror3" },
 			//Spinning wheel
 			{ "item" : "catcorsetchest" },
 			{ "item" : "conceptchest" },
@@ -103,7 +103,7 @@
 			{ "item" : "bread" },
 			{ "item" : "sweetcorn" },
 			{ "item" : "candyapple" },
-			{ "item" : "icecream" },
+			{ "item" : "icecream" }
 
 		]
 	},
