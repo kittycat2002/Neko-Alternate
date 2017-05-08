@@ -115,8 +115,8 @@
       "image" : "/interface/title/male.png",
       "characterImage" : "/interface/title/nekomale.png",
       "hair" : [ "male1", "male2", "male3", "male7", "male9", "male10", "male11", "male12", "male14", "male15", "male17", "male18", "male19", "male21", "male22", "male23", "male24", "male25", "male26", "male28", "male29", "male32", "male33", "male34", "male36", "male37", "male38", "male39", "male40", "male41", "male42", "male43", "male44", "male45", "male46", "male48", "male50", "male51", "male52", "male54", "male56", "male57", "male58", "male59", "male60", "male61", "male62", "osu001", "osu002", "osu003", "osu004", "osu005", "osu006", "osu007", "osu008", "osu009", "osu010", "osu011", "osu012", "osu013", "osu014", "osu015", "osu016", "osu017", "osu018", "osu019" ], //  "hair2cut" "hair9cut"
-      "shirt" : [ "nekocrafterchest", "nekonoblechest", "nekopilotchest", "nekoriderchest" ],
-      "pants" : [ "nekocrafterlegs", "nekonoblelegs", "nekopilotlegs", "nekoriderlegs", "nekojeans1legs", "nekojeans2legs", "sweatervestlegs" ],
+      "shirt" : [ "workoutchest", "coolchest", "conceptchest", "sweatervestchest" ],
+      "pants" : [ "workoutlegs", "coollegs", "conceptlegs", "sweatervestlegs" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
@@ -127,8 +127,8 @@
       "image" : "/interface/title/female.png",
       "characterImage" : "/interface/title/nekofemale.png",
       "hair" : [ "mesu001", "mesu002", "mesu003", "mesu004", "mesu005", "mesu006", "mesu008", "mesu009", "mesu010", "mesu011", "mesu012", "mesu013", "mesu014", "mesu015", "mesu016", "mesu017", "mesu018", "mesu020", "mesu021", "mesu022", "mesu023", "mesu024", "mesu025", "mesu026", "mesu027", "mesu028", "mesu029", "mesu030", "mesu031", "mesu032", "mesu033", "mesu035", "mesu036", "mesu037", "mesu038", "mesu039", "mesu040", "mesu041", "mesu042", "mesu043", "mesu044", "mesu045", "mesu046", "mesu047", "mesu048", "mesu050" ], //  "hair2cut" "hair9cut"
-      "shirt" : [ "nekocrafterchest", "nekonoblechest", "nekopilotchest", "nekoriderchest" ],
-      "pants" : [ "nekocrafterlegs", "nekonoblelegs", "nekopilotlegs", "nekoriderlegs", "nekojeans1legs", "nekojeans2legs", "sweatervestlegs" ],
+      "shirt" : [ "workoutchest", "coolchest", "conceptchest", "sweatervestchest" ],
+      "pants" : [ "workoutlegs", "coollegs", "conceptlegs", "sweatervestlegs" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
