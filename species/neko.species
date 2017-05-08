@@ -66,16 +66,9 @@
 			{ "item" : "violiumbroadsword" },
 			//some secret Illuminati item?
 			{ "item" : "nekosword" },
-			{ "item" : "nekowarmongergeaves"},
-			{ "item" : "nekowarmongerhead"},
-			{ "item" : "nekowarmongerchest"},
 			// Furniture
 			{ "item" : "nekoshipdoor" },
 			{ "item" : "nekoshiphatch" },
-			{ "item" : "nekobed" },
-			{ "item" : "nekomirror1" },
-			{ "item" : "nekomirror2" },
-			{ "item" : "nekomirror3" },
 			//Spinning wheel
 			{ "item" : "catcorsetchest" },
 			{ "item" : "conceptchest" },
