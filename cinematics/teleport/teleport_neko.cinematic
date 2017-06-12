@@ -1,5 +1,7 @@
 {
 	"skippable" : true,
+  "muteSfx" : false,
+  "muteMusic" : true,
 	"backgroundColor" : [0, 0, 0, 255],
 	"backgroundFadeTime" : 0.0,
 	"panels" : [
