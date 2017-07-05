@@ -3,54 +3,5 @@
     "op": "add",
     "path": "/nekoDescription",
     "value": "Terrormart? I'm already shaking! Wait, oh. Terr-a-mart. Okay."
-  },
-      {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": "azukiplushie"
-    }
-  },
-      {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": "chocolaplushie"
-    }
-  },
-      {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": "cinnamonplushie"
-    }
-  },
-      {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": "coconutplushie"
-    }
-  },
-      {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": "mapleplushie"
-    }
-  },
-      {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": "milkplushie"
-    }
-  },
-      {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": "vanillaplushie"
-    }
   }
 ]
