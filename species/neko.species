@@ -10,7 +10,7 @@
   "ouchNoises" : [ "/sfx/humanoid/humanhurt_male1.ogg", "/sfx/humanoid/humanhurt_female1.ogg" ],
   "gruntNoises" : [ [ "/sfx/humanoid/humangrunt1.ogg", "/sfx/humanoid/humangrunt2.ogg" ], [ "/sfx/humanoid/humangrunt1.ogg", "/sfx/humanoid/humangrunt2.ogg" ] ],
   "charGenTextLabels" : [ "SKIN COLOR", "HAIR STYLE", "SHIRT", "PANTS", "TAIL COLOR", "HAIR COLOR", "SHIRT COLOR", "PANTS COLOR", "NEKO", "PERSONALITY", "ESRS" ],
-  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=80f4ffFF?replace=31a6ffFF=39b8e3FF",   //Effect changes Fixed 2016-10-09 13:46
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=C399FF?replace=31a6ffFF=9A59E3",
   "skull" : "/humanoid/human/dead.png",
    "defaultBlueprints" : {
 		"tier1" : [

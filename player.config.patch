@@ -1,4 +1,4 @@
 [
 	{ "op" : "add", "path" : "/species/-", "value" : "neko" },
-	{ "op" : "add", "path" : "/defaultCodexes/neko", "value" : [ "neko1", "neko2" ] }
+	{ "op" : "add", "path" : "/defaultCodexes/neko", "value" : [ "protectorate1", "protectorate2" ] }
 ]
