@@ -2,6 +2,6 @@
   {
     "op": "add",
     "path": "/nekoDescription",
-    "value": "This'll keep me safe!"
+    "value": "Shield generator, prevents damage to tiles."
   }
 ]
