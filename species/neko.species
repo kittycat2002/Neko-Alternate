@@ -9,7 +9,7 @@
   "nameGen" : [ "/species/nekonamegen.config:names", "/species/nekonamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/humanhurt_male1.ogg", "/sfx/humanoid/humanhurt_female1.ogg" ],
   "gruntNoises" : [ [ "/sfx/humanoid/humangrunt1.ogg", "/sfx/humanoid/humangrunt2.ogg" ], [ "/sfx/humanoid/humangrunt1.ogg", "/sfx/humanoid/humangrunt2.ogg" ] ],
-  "charGenTextLabels" : [ "SKIN COLOR", "HAIR STYLE", "SHIRT", "PANTS", "TAIL COLOR", "HAIR COLOR", "SHIRT COLOR", "PANTS COLOR", "NEKO", "PERSONALITY", "ESRS" ],
+  "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Underwear", "Hair/Tail colour", "Shirt colour", "Legwear colour", "NEKO", "Personality" ],
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=C399FF?replace=31a6ffFF=9A59E3",
   "skull" : "/humanoid/human/dead.png",
    "defaultBlueprints" : {
@@ -100,6 +100,7 @@
 	},
   "altOptionAsUndyColor" : true,
   "headOptionAsHairColor" : true,
+  "hairColorAsBodySubColor" : true,
   "genders" : [
     {
       "name" : "male",
@@ -139,52 +140,16 @@
     { "ffe2c5" : "ab8c77", "ffc181" : "86644a", "d39c6c" : "684431", "c7815b" : "40271d" }
   ],
   "undyColor" : [
-    { "dc1f00" : "525252", "be1b00" : "363636", "951500" : "161616" }, // Black
-    { "dc1f00" : "50422f", "be1b00" : "36261e", "951500" : "170f0d" }, // Dark-Brown
-    { "dc1f00" : "7f5a39", "be1b00" : "5b3523", "951500" : "3b1f15" }, // Brown
-    { "dc1f00" : "a6671d", "be1b00" : "915622", "951500" : "743e1d" }, // Light-Brown
-    { "dc1f00" : "e6e756", "be1b00" : "c7ac3f", "951500" : "a9882f" }, // Yellow
-    { "dc1f00" : "f2eba3", "be1b00" : "dcd28c", "951500" : "c2b677" }, // Light-Yellow
-    { "dc1f00" : "7d3c1c", "be1b00" : "4d240b", "951500" : "2d1606" }, // Medium-Brown
-    { "dc1f00" : "ad2716", "be1b00" : "8f1f1b", "951500" : "731a1a" }, // Red
-    { "dc1f00" : "b8b8b8", "be1b00" : "828282", "951500" : "555555" }, // Gray
-    { "dc1f00" : "eaeaea", "be1b00" : "b8b8b8", "951500" : "828282" }, // White
-    { "dc1f00" : "6f6d85", "be1b00" : "525269", "951500" : "3e4352" }, // Pale-Blue
-    { "dc1f00" : "cd72d9", "be1b00" : "ac4da6", "951500" : "913b86" }, // Pink
-    { "dc1f00" : "425879", "be1b00" : "343965", "951500" : "242247" }, // Dark-Blue
-    { "dc1f00" : "5d8bc7", "be1b00" : "4d55b0", "951500" : "2e2a73" }, // Blue
-	{ "dc1f00" : "b2cee6", "be1b00" : "90b3e2", "951500" : "2e2a73" }, // Light-Blue
-    { "dc1f00" : "653b7f", "be1b00" : "562e6a", "951500" : "3f1d4b" }, // Purple
-    { "dc1f00" : "7f3b6d", "be1b00" : "6a2e53", "951500" : "4b1d30" }, // Light-Purple
-    { "dc1f00" : "efa838", "be1b00" : "be6d1d", "951500" : "834012" }, // Orange
-    { "dc1f00" : "4ece61", "be1b00" : "34ae47", "951500" : "228a38" }, // Light-Green
-    { "dc1f00" : "3b7f44", "be1b00" : "2e6a38", "951500" : "1d4b28" }, // Green
-    { "dc1f00" : "74726f", "be1b00" : "53504d", "951500" : "2a251e" }, // Light-Black
-    { "dc1f00" : "A1CD33", "be1b00" : "83B62A", "951500" : "688E22" }, // NRM-Chameleon-Green
-    { "dc1f00" : "B0AD79", "be1b00" : "7B764F", "951500" : "615B3A" }, // NRM-Gold-Green
-    { "dc1f00" : "C3CB6B", "be1b00" : "AAB256", "951500" : "7C842C" }, // NRM-Grass-Green
-    { "dc1f00" : "809485", "be1b00" : "718777", "951500" : "4A6352" }, // NRM-Muddy-Green
-    { "dc1f00" : "C5A60E", "be1b00" : "AE9027", "951500" : "8B6F00" }, // NRM-Dark-Yellow
-    { "dc1f00" : "D2B95A", "be1b00" : "C79B3C", "951500" : "A2772E" }, // NRM-Browny-Yellow
-    { "dc1f00" : "DCB48C", "be1b00" : "B38D6B", "951500" : "875F3C" }, // NRM-Browny-Gold
-    { "dc1f00" : "CAC88E", "be1b00" : "B0AD79", "951500" : "817D50" }, // NRM-Muddy-Gold
-    { "dc1f00" : "A6D2F3", "be1b00" : "8DB6EB", "951500" : "6A8FC5" }, // NRM-Shine-Blue
-    { "dc1f00" : "6CC3DF", "be1b00" : "4F9BBC", "951500" : "327DA5" }, // NRM-Deep-Blue
-    { "dc1f00" : "748BBB", "be1b00" : "697CA9", "951500" : "49567C" }, // NRM-Muted-Blue
-    { "dc1f00" : "AE87B5", "be1b00" : "946F9D", "951500" : "6F4D7A" }, // NRM-Shine-Purple
-    { "dc1f00" : "E19FCA", "be1b00" : "DB8EB9", "951500" : "C06A8B" }, // NRM-Medium-Pink
-    { "dc1f00" : "DB8C94", "be1b00" : "C37C82", "951500" : "996167" }, // NRM-Pale-Pink
-    { "dc1f00" : "D4887E", "be1b00" : "B06E76", "951500" : "8C5055" }, // NRM-Crimson-Pink
-    { "dc1f00" : "AB6C71", "be1b00" : "945C60", "951500" : "724245" }, // NRM-Browny-Red
-    { "dc1f00" : "A30000", "be1b00" : "700000", "951500" : "550000" }, // NRM-Deep-Red
-    { "dc1f00" : "CB936B", "be1b00" : "B27C56", "951500" : "8E5B36" }, // NRM-Luminous-Brown
-    { "dc1f00" : "B5542E", "be1b00" : "A34C24", "951500" : "8E4120" }, // NRM-Shine-Brown
-    { "dc1f00" : "CC7036", "be1b00" : "B5542E", "951500" : "A0320A" }, // NRM-Deep-Orange
-    { "dc1f00" : "977200", "be1b00" : "816000", "951500" : "6C4D00" }, // NRM-Muddy-Brown
-    { "dc1f00" : "9C9CB0", "be1b00" : "7B7B8F", "951500" : "5A5A6E" }, // NRM-Gray-Tinged-With-Blue
-    { "dc1f00" : "E4D9E6", "be1b00" : "C9C1CE", "951500" : "A498AB" }, // NRM-White-Tinged-With-Purple
-    { "dc1f00" : "F0E6E6", "be1b00" : "DCD2D2", "951500" : "B9AFAF" }, // NRM-Shine-White
-    { "dc1f00" : "D8CAAF", "be1b00" : "A49A7F", "951500" : "7D735A" } // NRM-Cartoon-Gold
+    { "dc1f00" : "4d76ad", "be1b00" : "395187", "951500" : "20325b" },
+    { "dc1f00" : "7c41b8", "be1b00" : "6c2f90", "951500" : "471962" },
+    { "dc1f00" : "c63442", "be1b00" : "9b2724", "951500" : "6a1210" },
+    { "dc1f00" : "eaa245", "be1b00" : "b47020", "951500" : "834a0c" },
+    { "dc1f00" : "e3e13a", "be1b00" : "a8a614", "951500" : "848008" },
+    { "dc1f00" : "6ab841", "be1b00" : "45902f", "951500" : "296219" },
+    { "dc1f00" : "535353", "be1b00" : "363636", "951500" : "111111" },
+    { "dc1f00" : "e6e6e6", "be1b00" : "979797", "951500" : "6f6f6f" },
+    { "dc1f00" : "9e9e9e", "be1b00" : "6e6e6e", "951500" : "434343" },
+    { "dc1f00" : "f794f8", "be1b00" : "d355c1", "951500" : "b72c95" }
   ],
   "hairColor" : [
     { "d9c189" : "525252", "a38d59" : "363636", "735e3a" : "161616" }, // Black
