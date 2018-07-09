@@ -1,0 +1,26 @@
+{
+  "name" : "guard_neko",
+  "priority" : 5,
+
+  "colonyTagCriteria" : {
+    "light" : 1,
+    "door" : 1,
+    "neko" : 8,
+    "combat" : 8
+  },
+
+  "tenants" : [{
+    "spawn" : "npc",
+    "species" : "neko",
+    "level" : 1,
+    "type" : "friendlyguard",
+    "overrides" : {
+      "damageTeamType" : "friendly"
+    }
+  }],
+
+  "rent" : {
+    "periodRange" : [900.0, 1800.0],
+    "pool" : "villagerGift"
+  }
+}

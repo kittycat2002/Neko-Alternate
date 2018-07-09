@@ -1,0 +1,24 @@
+{
+  "name" : "villager_neko",
+  "priority" : 2,
+
+  "colonyTagCriteria" : {
+    "light" : 1,
+    "door" : 1,
+    "neko" : 6
+  },
+
+  "tenants" : [{
+    "spawn" : "npc",
+    "species" : "neko",
+    "type" : "villager",
+    "overrides" : {
+      "damageTeamType" : "friendly"
+    }
+  }],
+
+  "rent" : {
+    "periodRange" : [900.0, 1800.0],
+    "pool" : "villagerGift"
+  }
+}
