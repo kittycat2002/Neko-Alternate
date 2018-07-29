@@ -1,0 +1,59 @@
+{
+  "objectName" : "nekomonitor",
+  "colonyTags" : ["neko","electronic"],
+  "rarity" : "Common",
+  "description" : "A monitor, but for Neko.",
+  "shortdescription" : "Neko Monitor",
+  "race" : "generic",
+
+  "category" : "decorative",
+  "price" : 140,
+  "lightColor" : [92, 133, 153],
+  "flickerDistance" : 0.2,
+  "flickerStrength" : 0.05,
+  "flickerTiming" : 4,
+
+  "apexDescription" : "A monitor. I can't read what it says here.",
+  "avianDescription" : "Some sort of monitor, but I can't make out what it says.",
+  "floranDescription" : "Ssstupid monitor, only has liness.",
+  "glitchDescription" : "Upset. This seems to be malfunctioning.",
+  "humanDescription" : "I wonder if this is meant to be showing something.",
+  "hylotlDescription" : "It seems to be broken, how surprising.",
+  "novakidDescription" : "I can't make out anythin' 'cept flickerin' lines.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "nekomonitor.png:<color>.on",
+      "imagePosition" : [-16, -8],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "nekomonitor.png:<color>.on",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/nekomonitor_static.ogg",
+
+  "animation" : "nekomonitor.animation",
+  "animationParts" : {
+    "bg" : "nekomonitor.png",
+    "fg" : "nekomonitorlit.png"
+  },
+  "animationPosition" : [-16, -8],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ]
+
+}
