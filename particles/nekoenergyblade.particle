@@ -4,7 +4,6 @@
     "type" : "ember",
     "size" : 1,
     "color" : [94, 220, 255],
-    "light" : [60, 240, 255],
     "position" : [0, 0],
     "destructionAction" : "shrink",
     "destructionTime" : 0.5,
