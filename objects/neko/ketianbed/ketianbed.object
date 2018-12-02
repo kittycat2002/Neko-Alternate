@@ -1,0 +1,65 @@
+{
+	"objectName" : "ketianbed",
+	"colonyTags" : [ "neko", "ketian" ],
+	"rarity" : "Common",
+	"shortdescription" : "Large Ketian Bed",
+	"description" : "A comfy queen-sized ketian bed.",
+	"race" : "neko",
+  "category" : "furniture",
+	"price" : 125,
+  "printable" : false,
+
+
+  "apexDescription" : "A very beautiful and comfy bed. There apears to be cat hair on the sheets.",
+  "avianDescription" : "This is a very shiney bed. I smell a cat!",
+  "floranDescription" : "Floran likes to sssleep with prey!",
+  "glitchDescription" : "Pleased. A cozy place to take a nap.",
+  "humanDescription" : "A cat-hair-covered bed.",
+  "hylotlDescription" : "A excellently crafted metal and fabric bed.",
+  "novakidDescription" : "Good a place as any to take a nap.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/neko/ketianbed/ketianbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "ketianbedicon.png",
+	"orientations" : [
+  	{
+      "imageLayers" : [ { "image" : "ketianbed.png:<color>", "fullbright" : true }, { "image" : "ketianbedlit.png:<color>" } ],
+  		"flipImages" : true,
+  		"imagePosition" : [-32, 0],
+			"frames" : 1,
+			"animationCycle" : 1.0,
+
+
+
+      "sitPosition" : [-14, 11],
+
+  		"spaces": [ [-4, 0], [-4, 1], [-3, 0], [-3, 1], [-2, 0], [-2, 1], [-1, 0], [-1, 1], [0, 0], [0, 1], [1, 0], [1, 1], [2, 0], [2, 1], [3, 0], [3, 1] ],
+  		"anchors" : [ "bottom" ],
+  		"direction" : "left"
+  	},
+  	{
+      "imageLayers" : [ { "image" : "ketianbed.png:<color>", "fullbright" : true }, { "image" : "ketianbedlit.png:<color>" } ],
+  		"imagePosition" : [-32, 0],
+			"frames" : 1,
+			"animationCycle" : 1.0,
+
+
+
+      "sitPosition" : [-14, 11],
+
+  		"spaces": [ [-4, 0], [-4, 1], [-3, 0], [-3, 1], [-2, 0], [-2, 1], [-1, 0], [-1, 1], [0, 0], [0, 1], [1, 0], [1, 1], [2, 0], [2, 1], [3, 0], [3, 1] ],
+  		"anchors" : [ "bottom" ],
+  		"direction" : "right"
+  	}
+	]
+}
