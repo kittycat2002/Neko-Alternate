@@ -1,0 +1,23 @@
+{
+  "objectName" : "nekoemblembig",
+  "colonyTags" : [ "neko", "misc" ],
+  "rarity" : "Common",
+  "shortdescription" : "Large Ketain Emblem",
+  "description" : "The cat head emblem of the Ketain.",
+  "race" : "neko",
+  "category" : "furniture",
+  "price" : 125,
+  "printable" : false,
+
+  "inventoryIcon" : "nekoemblembigicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "nekoemblembig.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces": [ [ 0, 0 ], [ 1, 0 ], [ 2, 0 ], [ 3, 0 ], [ 0, 1 ], [ 3, 1 ], [ 0, 2 ], [ 3, 2 ], [ 0, 3 ], [ 1, 3 ], [ 2, 3 ], [ 3, 3 ] ]
+    }
+  ]
+}
