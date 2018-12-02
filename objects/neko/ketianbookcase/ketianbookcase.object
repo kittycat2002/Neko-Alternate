@@ -9,6 +9,7 @@
 	"race" : "neko",
   "category" : "storage",
 	"price" : 125,
+  "printable" : false,
 
   "apexDescription" : "A metal bookcase.",
   "avianDescription" : "A bookcase. Made from metal.",

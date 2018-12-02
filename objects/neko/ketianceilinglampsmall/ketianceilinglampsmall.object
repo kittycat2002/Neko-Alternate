@@ -7,6 +7,7 @@
   "race" : "neko",
   "category" : "light",
   "price" : 90,
+  "printable" : false,
   "lightColor" : [122, 177, 204],
 
   "apexDescription" : "A light fixture made from metal.",

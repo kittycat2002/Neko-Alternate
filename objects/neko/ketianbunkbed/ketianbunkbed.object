@@ -7,7 +7,7 @@
 	"race" : "neko",
   "category" : "furniture",
 	"price" : 125,
-
+  "printable" : false,
 
 
   "apexDescription" : "A closed quarters bed.",
@@ -37,8 +37,6 @@
 			"frames" : 1,
 			"animationCycle" : 1.0,
 
-
-
       "sitPosition" : [-4, 14.3],
 
       "spaceScan" : 0.1,
@@ -51,8 +49,6 @@
       "imagePosition" : [-24, 0],
 			"frames" : 1,
 			"animationCycle" : 1.0,
-
-
 
       "sitPosition" : [-12, 14.3],
 
