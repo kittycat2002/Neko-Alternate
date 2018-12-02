@@ -13,7 +13,7 @@
 
   "inventoryIcon" : "nekoswordicon.png",
 
-  "animation" : "/items/active/weapons/melee/broadsword/nekoenergybroadsword.animation",
+  "animation" : "/items/active/weapons/melee/nekosword/nekoenergybroadsword.animation",
   "animationParts" : {
     "handle" : "nekohandle.png",
     "handleFullbright" : "nekohandlefullbright.png",
@@ -39,7 +39,7 @@
     "baseDps" : 10.5,
     "damageConfig" : {
       "damageSourceKind" : "icebroadsword",
-	   "statusEffects" : [ "frostslow" ] 
+	   "statusEffects" : [ "frostslow" ]
     },
     "stances" : {
       "windup1" : {
