@@ -1,0 +1,23 @@
+{
+  "itemName" : "nekoenergydye",
+  "price" : 45,
+  "rarity" : "Uncommon",
+  "category" : "clothingDye",
+  "inventoryIcon" : "nekoenergydye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Neko Energy Dye",
+
+
+			"dyeDirectives": {
+				"ffca8a": "8EF3FF",
+				"e0975c": "2CCBE0",
+				"a85636": "0EA6CC",
+				"6f2919": "007AC1"
+			},
+			"dyeColorIndex": false,
+
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

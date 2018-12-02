@@ -1,0 +1,23 @@
+{
+  "itemName" : "nekoalloydye",
+  "price" : 45,
+  "rarity" : "Uncommon",
+  "category" : "clothingDye",
+  "inventoryIcon" : "nekoalloydye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Neko Alloy Dye",
+
+
+			"dyeDirectives": {
+				"ffca8a": "A4AEC1",
+				"e0975c": "707E96",
+				"a85636": "4A5270",
+				"6f2919": "25273D"
+			},
+			"dyeColorIndex": false,
+
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}
