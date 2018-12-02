@@ -1,0 +1,56 @@
+{
+	"objectName" : "ketianbookcase",
+	"colonyTags" : [ "neko", "ketian", "knowlege", "storage" ],
+	"rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+	"description" : "A metal bookcase.",
+	"shortdescription" : "Ketian Bookcase",
+	"race" : "neko",
+  "category" : "storage",
+	"price" : 125,
+
+  "apexDescription" : "A metal bookcase.",
+  "avianDescription" : "A bookcase. Made from metal.",
+  "floranDescription" : "Ssshiney metal bookcase.",
+  "glitchDescription" : "Interested. A bookcase.",
+  "humanDescription" : "A metal bookcase.",
+  "hylotlDescription" : "A spot to place books. Oh no room.",
+  "novakidDescription" : "A large, metal bookcase.",
+
+  "inventoryIcon" : "ketianbookcaseicon.png",
+	"orientations" : [
+    {
+      "imageLayers" : [ { "image" : "ketianbookcase.png:<color>", "fullbright" : true }, { "image" : "ketianbookcaselit.png:<color>" } ],
+      "flipImages" : true,
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "direction" : "left"
+    },
+    {
+      "imageLayers" : [ { "image" : "ketianbookcase.png:<color>", "fullbright" : true }, { "image" : "ketianbookcaselit.png:<color>" } ],
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "direction" : "right"
+    }
+	],
+
+  "openSounds" : [ "/sfx/objects/bookcase_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bookcase_close.ogg" ],
+  "slotCount" : 32,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600,
+
+	"retainObjectParametersInItem" : true
+}
