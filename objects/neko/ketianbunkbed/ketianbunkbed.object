@@ -1,0 +1,65 @@
+{
+	"objectName" : "ketianbunkbed",
+	"colonyTags" : ["neko", "ketian"],
+	"rarity" : "Common",
+	"description" : "A glowing metal bunk bed.",
+	"shortdescription" : "Large Ketian Bunk Bed",
+	"race" : "neko",
+  "category" : "furniture",
+	"price" : 125,
+
+
+
+  "apexDescription" : "A closed quarters bed.",
+  "avianDescription" : "This bed looks rather private.",
+  "floranDescription" : "Floran likes to ssleep in small rooms!",
+  "glitchDescription" : "Pleased. A comfortable place for a nap.",
+  "humanDescription" : "A good comfy bunk bed.",
+  "hylotlDescription" : "A glowing metal closed room bed.",
+  "novakidDescription" : "Good a place as any to take a nap.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/neko/nekobunkbed/ketianbunkbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [ "bed1" ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "ketianbunkbedicon.png",
+	"orientations" : [
+  	{
+      "imageLayers" : [ { "image" : "ketianbunkbed.png", "fullbright" : true }, { "image" : "ketianbunkbedlit.png" } ],
+  		"flipImages" : true,
+      "imagePosition" : [-24, 0],
+			"frames" : 1,
+			"animationCycle" : 1.0,
+
+
+
+      "sitPosition" : [-4, 14.3],
+
+      "spaceScan" : 0.1,
+  		"anchors" : [ "bottom" ],
+  		"direction" : "left",
+      "collision" : "platform"
+  	},
+  	{
+      "imageLayers" : [ { "image" : "ketianbunkbed.png", "fullbright" : true }, { "image" : "ketianbunkbedlit.png" } ],
+      "imagePosition" : [-24, 0],
+			"frames" : 1,
+			"animationCycle" : 1.0,
+
+
+
+      "sitPosition" : [-12, 14.3],
+
+      "spaceScan" : 0.1,
+  		"anchors" : [ "bottom" ],
+  		"direction" : "right",
+      "collision" : "platform"
+  	}
+	]
+}
