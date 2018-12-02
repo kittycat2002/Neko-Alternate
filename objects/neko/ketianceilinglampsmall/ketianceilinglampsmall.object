@@ -22,44 +22,38 @@
   "orientations" : [
     {
       "image" : "ketianceilinglampsmall.png:<color>.<frame>",
-      "imagePosition" : [-12, 0],
-      "animationParts" : {
-        "bg" : "ketianceilinglampsmall.png",
-        "fg" : "ketianceilinglampsmalllit.png"
-      },
-      "animationPosition" : [-12, 0],
+      "imagePosition" : [0, 0],
 
       "direction" : "left",
-      "flipImages" : true,
 
+      "flipImages" : true,
       "spaceScan" : 0.1,
-      "anchors" : [ "top" ],
-      "lightPosition" : [0, 1],
-      "beamAngle" : 270
+      "anchors" : [ "top" ]
     },
     {
       "image" : "ketianceilinglampsmall.png:<color>.<frame>",
-      "imagePosition" : [-12, 0],
-      "animationParts" : {
-        "bg" : "ketianceilinglampsmall.png",
-        "fg" : "ketianceilinglampsmalllit.png"
-      },
-      "animationPosition" : [-12, 0],
+      "imagePosition" : [0, 0],
 
       "direction" : "right",
 
       "spaceScan" : 0.1,
-      "anchors" : [ "top" ],
-      "lightPosition" : [0, 1],
-      "beamAngle" : 270
+      "anchors" : [ "top" ]
     }
   ],
 
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/tinywallswitch.ogg" ],
+      "off" : [ "/sfx/objects/tinywallswitch.ogg" ]
+    }
+  },
   "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
   "animationParts" : {
     "bg" : "ketianceilinglampsmall.png",
     "fg" : "ketianceilinglampsmalllit.png"
   },
+  "animationPosition" : [0, 0],
 
   "scripts" : [ "/objects/wired/light/light.lua" ],
   "scriptDelta" : 60,
