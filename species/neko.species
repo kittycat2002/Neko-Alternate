@@ -67,27 +67,8 @@
 			{ "item" : "nekostoragelocker" },
 			{ "item" : "nekoshipdoor" },
 			{ "item" : "nekoshiphatch" },
-			{ "item" : "nekonoblechest" },
-			{ "item" : "nekonoblelegs" },
-			{ "item" : "nekoriderchest" },
-			{ "item" : "nekoriderlegs" },
-			{ "item" : "justajacket" },
-			{ "item" : "kendolegs" },
-			{ "item" : "kimonochest" },
-			{ "item" : "kimonolegs" },
-			{ "item" : "peploslegs" },
-			{ "item" : "retrodresschest" },
-			{ "item" : "retrodresslegs" },
-			{ "item" : "sweater" },
-			{ "item" : "workoutchest" },
-			{ "item" : "workoutlegs" },
-      // Food
-			{ "item" : "burger" },
-			{ "item" : "bread" },
-			{ "item" : "sweetcorn" },
-			{ "item" : "candyapple" },
-			{ "item" : "icecream" }
-
+//Spinning wheel
+      // NONE
 		]
 	},
   "altOptionAsUndyColor" : true,
