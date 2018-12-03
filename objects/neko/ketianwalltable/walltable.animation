@@ -6,21 +6,21 @@
   "animatedParts" : {
     "stateTypes" : {
       "doorState" : {
-        "default" : "closed",
+        "default" : "open",
         "states" : {
           "open" : {
-            "frames" : 2,
+            "frames" : 3,
             "cycle" : 0.15
           },
           "closing" : {
-            "frames" : 2,
+            "frames" : 3,
             "cycle" : 0.15,
             "mode" : "transition",
             "transition" : "closed"
           },
           "closed" : { },
           "locking" : {
-            "frames" : 2,
+            "frames" : 3,
             "cycle" : 0.15,
             "mode" : "transition",
             "transition" : "locked"
@@ -31,7 +31,49 @@
     },
 
     "parts" : {
-      "door" : {
+      "bg" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "doorState" : {
+            "open" : {
+              "properties" : {
+                "image" : "<partImage>:open<doorDirection>.<frame>",
+                "fullbright" : true
+              }
+            },
+
+            "closing" : {
+              "properties" : {
+                "image" : "<partImage>:close<doorDirection>.<frame>",
+                "fullbright" : true
+              }
+            },
+
+            "closed" : {
+              "properties" : {
+                "image" : "<partImage>:close<doorDirection>.3",
+                "fullbright" : true
+              }
+            },
+
+            "locking" : {
+              "properties" : {
+                "image" : "<partImage>:close<doorDirection>.<frame>"
+              }
+            },
+
+            "locked" : {
+              "properties" : {
+                "image" : "<partImage>:close<doorDirection>.3"
+              }
+            }
+          }
+        }
+      },
+      "fg" : {
         "properties" : {
           "centered" : false
         },

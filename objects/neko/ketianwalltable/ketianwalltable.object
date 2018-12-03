@@ -22,7 +22,23 @@
   "scripts" : [ "/objects/wired/door/door.lua" ],
   "scriptDelta" : 5,
 
-  "animation" : "/objects/wired/door/door.animation",
+  "openMaterials" : [ ],
+
+  "openMaterialSpaces" : [
+	  [[-2,1],"metamaterial:objectplatform"],
+	  [[-1,1],"metamaterial:objectplatform"],
+	  [[ 0,1],"metamaterial:objectplatform"],
+	  [[ 1,1],"metamaterial:objectplatform"],
+	  [[ 2,1],"metamaterial:objectplatform"]
+  ],
+
+  "closedMaterials" : [ ],
+
+  "closedMaterialSpaces" : [ ],
+
+  "defaultState": "open",
+
+  "animation" : "/objects/neko/ketianwalltable/walltable.animation",
   "animationCustom" : {
     "sounds" : {
       "open" : {
@@ -36,35 +52,25 @@
     }
   },
   "animationParts" : {
-    "door" : "ketiantable.png"
+    "bg" : "ketianwalltable.png",
+    "fg" : "ketianwalltablelit.png"
   },
+  "animationPosition" : [-24, 0],
 
 	"orientations" : [
   	{
-      "imageLayers" : [ { "image" : "ketiantable.png", "fullbright" : true }, { "image" : "ketiantablelit.png" } ],
+      "dualImage" : "ketianwalltable.png:default",
       "imagePosition" : [-24, 0],
       "renderLayer" : "Object+5",
-      "animationPosition" : [-24, 0],
-  		"flipImages" : true,
 
-      "spaces" : [ [-2, -1], [-2, 0], [-2, 1], [-1, -1], [-1, 0], [-1, 1], [0, -1], [0, 0], [0, 1], [1, -1], [1, 0], [1, 1], [2, -1], [2, 0], [2, 1] ],
-  		"anchors" : [ "bottom" ],
-  		"direction" : "left",
-      "collision" : "platform"
-  	},
-  	{
-      "imageLayers" : [ { "image" : "ketiantable.png", "fullbright" : true }, { "image" : "ketiantablelit.png" } ],
-      "imagePosition" : [-24, 0],
-      "renderLayer" : "Object+5",
-      "animationPosition" : [-24, 0],
-
-      "spaces" : [ [-2, -1], [-2, 0], [-2, 1], [-1, -1], [-1, 0], [-1, 1], [0, -1], [0, 0], [0, 1], [1, -1], [1, 0], [1, 1], [2, -1], [2, 0], [2, 1] ],
-  		"anchors" : [ "bottom" ],
-  		"direction" : "right",
-      "collision" : "platform"
+      "spaces" : [
+        [-2,  2], [-1,  2], [0,  2], [2,  2], [2,  2],
+        [-2,  1], [-1,  1], [0,  1], [2,  1], [2,  1],
+        [-2,  0], [-1,  0], [0,  0], [2,  0], [2,  0]
+      ],
+  		"anchors" : [ "bottom" ]
   	}
 	],
 
-  "inputNodes" : [ [-2, 1] ],
-  "outputNodes" : [ [2, -1] ]
+  "inputNodes" : [ [0, -1] ]
 }

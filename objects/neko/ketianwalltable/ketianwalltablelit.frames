@@ -1,9 +1,26 @@
 {
+
   "frameGrid" : {
     "size" : [40, 16],
-    "dimensions" : [4, 1],
+    "dimensions" : [8, 1],
     "names" : [
-      [ "default" ]
+      [ "open", "closingLeft.1", "closingLeft.2", "closedLeft.1", "", "closingRight.1", "closingRight.2", "closedRight.1" ]
     ]
+  },
+
+  "aliases" : {
+    "default" : "open",
+    "closeLeft.1" : "closingLeft.1",
+    "closeLeft.2" : "closingLeft.2",
+    "closeLeft.3" : "closedLeft.1",
+    "closeRight.1" : "closingRight.1",
+    "closeRight.2" : "closingRight.2",
+    "closeRight.3" : "closedRight.1",
+    "openRight.1" : "closingLeft.2",
+    "openRight.2" : "closingLeft.1",
+    "openRight.3" : "open",
+    "openLeft.1" : "closingRight.2",
+    "openLeft.2" : "closingRight.1",
+    "openLeft.3" : "open"
   }
 }
