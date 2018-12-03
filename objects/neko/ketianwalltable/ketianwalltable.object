@@ -72,5 +72,5 @@
   	}
 	],
 
-  "inputNodes" : [ [0, -1] ]
+  "inputNodes" : [ [-1, 0] ]
 }
