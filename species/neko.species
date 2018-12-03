@@ -11,8 +11,6 @@
   "nameGen" : [ "/species/nekonamegen.config:names", "/species/nekonamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/humanhurt_male1.ogg", "/sfx/humanoid/humanhurt_female1.ogg" ],
   "gruntNoises" : [ [ "/sfx/humanoid/humangrunt1.ogg", "/sfx/humanoid/humangrunt2.ogg" ], [ "/sfx/humanoid/humangrunt1.ogg", "/sfx/humanoid/humangrunt2.ogg" ] ],
-  "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Underwear", "Hair/Tail colour", "Shirt colour", "Legwear colour", "NEKO", "Personality" ],
-  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=C399FF?replace=31a6ffFF=9A59E3",
   "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Miscellaneous", "Hair/Tail colour", "Shirt colour", "Legwear colour", "NEKO", "Personality" ],
   "skull" : "/humanoid/human/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=C399FF?replace=31a6ffFF=9A59E3",
@@ -22,6 +20,16 @@
 			{ "item" : "flagneko" },
 
 //Anvil
+			{ "item" : "nekotier1activehead" },
+			{ "item" : "nekotier1activechest" },
+			{ "item" : "humantier1activepants" },
+			{ "item" : "nekotier1fusedhead" },
+			{ "item" : "nekotier1fusedchest" },
+			{ "item" : "humantier1fusedpants" },
+			{ "item" : "nekotier1passivehead" },
+			{ "item" : "nekotier1passivechest" },
+			{ "item" : "humantier1passivepants" },
+
 			{ "item" : "humantier1head" },
 			{ "item" : "humantier1chest" },
 			{ "item" : "humantier1pants" },
