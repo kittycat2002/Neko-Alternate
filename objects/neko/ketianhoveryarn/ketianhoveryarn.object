@@ -1,8 +1,8 @@
 {
   "objectName" : "ketianhoveryarn",
-  "colonyTags" : ["neko", "ketian", "light"],
+  "colonyTags" : ["neko", "ketian", "misc"],
   "rarity" : "Common",
-  "category" : "light",
+  "category" : "decorative",
   "price" : 60,
   "printable" : true,
 
@@ -11,14 +11,7 @@
   "shortdescription" : "Ketian hover yarn",
   "race" : "neko",
 
-  "lightColor" : [128, 47, 0],
-  "lightPosition" : [0, 1],
-
-  "flickerPeriod" : 0.5,
-  "flickerMinIntensity" : 0.725,
-  "flickerMaxIntensity" : 0.8,
-  "flickerPeriodVariance" : 0,
-  "flickerIntensityVariance" : 0,
+  "lightColor" : [0, 0, 0],
 
   "apexDescription" : "This lamp is a waste of energy.",
   "avianDescription" : "An orb shaped lamp moving in a hypnotic way.",

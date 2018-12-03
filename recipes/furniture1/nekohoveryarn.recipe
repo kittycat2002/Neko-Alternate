@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "ironbar", "count" : 1 },
-    { "item" : "torch", "count" : 1 },
+    { "item" : "string", "count" : 4 },
     { "item" : "glassmaterial", "count" : 1 }
   ],
   "output" : {
