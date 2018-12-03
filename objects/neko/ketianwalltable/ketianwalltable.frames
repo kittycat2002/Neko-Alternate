@@ -3,6 +3,7 @@
   "frameGrid" : {
     "size" : [40, 16],
     "dimensions" : [8, 1],
+
     "names" : [
       [ "open", "closingLeft.1", "closingLeft.2", "closedLeft.1", "", "closingRight.1", "closingRight.2", "closedRight.1" ]
     ]

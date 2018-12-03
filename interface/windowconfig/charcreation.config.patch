@@ -1,7 +1,3 @@
 [
-	{
-		"op" : "add",
-		"path" : "/speciesOrdering/-",
-		"value" : "neko"
-	}
+	{ "op" : "add", "path" : "/speciesOrdering/-", "value" : "neko" }
 ]

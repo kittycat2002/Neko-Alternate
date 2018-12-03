@@ -1,8 +1,5 @@
 {
-  "globalTagDefaults" : {
-    "doorDirection" : "Right"
-  },
-
+  "globalTagDefaults" : { "doorDirection" : "Right" },
   "animatedParts" : {
     "stateTypes" : {
       "doorState" : {
@@ -32,10 +29,7 @@
 
     "parts" : {
       "bg" : {
-        "properties" : {
-          "centered" : false
-        },
-
+        "properties" : { "centered" : false },
         "partStates" : {
           "doorState" : {
             "open" : {
@@ -74,10 +68,7 @@
         }
       },
       "fg" : {
-        "properties" : {
-          "centered" : false
-        },
-
+        "properties" : { "centered" : false },
         "partStates" : {
           "doorState" : {
             "open" : {

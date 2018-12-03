@@ -7,15 +7,13 @@
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
   "shortdescription" : "Neko Neon Dye",
 
-
-			"dyeDirectives": {
-				"ffca8a": "DB0D3C",
-				"e0975c": "AD1341",
-				"a85636": "910B41",
-				"6f2919": "700336"
-			},
-			"dyeColorIndex": false,
-
+	"dyeDirectives": {
+		"ffca8a": "DB0D3C",
+		"e0975c": "AD1341",
+		"a85636": "910B41",
+		"6f2919": "700336"
+	},
+	"dyeColorIndex": false,
 
   "radioMessagesOnPickup" : [ "pickupdye" ],
 

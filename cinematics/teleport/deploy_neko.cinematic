@@ -6,11 +6,7 @@
   "backgroundFadeTime" : 0.0,
   "panels" : [
     {
-      "drawables" : [
-        {
-          "image" : "/cinematics/starfield0.png"
-        }
-      ],
+      "drawables" : [ { "image" : "/cinematics/starfield0.png" } ],
       "keyframes" : [
         {
           "timecode" : 0.0,
@@ -33,11 +29,7 @@
       ]
     },
     {
-      "drawables" : [
-        {
-          "image" : "/cinematics/glitters.png"
-        }
-      ],
+      "drawables" : [ { "image" : "/cinematics/glitters.png" } ],
       "keyframes" : [
         {
           "timecode" : 0.0,
@@ -60,11 +52,7 @@
       ]
     },
     {
-      "drawables" : [
-        {
-          "image" : "/cinematics/starfield1.png"
-        }
-      ],
+      "drawables" : [ { "image" : "/cinematics/starfield1.png" } ],
       "keyframes" : [
         {
           "timecode" : 0.0,
@@ -83,11 +71,7 @@
      "loopTime" : 1.0
     },
     {
-      "drawables" : [
-        {
-          "image" : "/cinematics/starfield1.png"
-        }
-      ],
+      "drawables" : [ { "image" : "/cinematics/starfield1.png" } ],
       "keyframes" : [
         {
           "timecode" : 0.0,
@@ -107,11 +91,7 @@
     },
 // lower layer
     {
-      "drawables" : [
-        {
-          "image" : "/cinematics/starfield1.png"
-        }
-      ],
+      "drawables" : [ { "image" : "/cinematics/starfield1.png" } ],
       "keyframes" : [
         {
           "timecode" : 0.0,
@@ -130,11 +110,7 @@
      "loopTime" : 1.0
     },
     {
-      "drawables" : [
-        {
-          "image" : "/cinematics/starfield1.png"
-        }
-      ],
+      "drawables" : [ { "image" : "/cinematics/starfield1.png" } ],
       "keyframes" : [
         {
           "timecode" : 0.0,
@@ -153,11 +129,7 @@
      "loopTime" : 1.0
     },
     {
-      "drawables" : [
-        {
-          "image" : "/cinematics/glitters.png"
-        }
-      ],
+      "drawables" : [ { "image" : "/cinematics/glitters.png" } ],
       "keyframes" : [
         {
           "timecode" : 0.0,
@@ -176,11 +148,7 @@
      "loopTime" : 3.0
     },
     {
-      "drawables" : [
-        {
-          "image" : "/cinematics/teleport/deploypodin_neko.png:<frame>"
-        }
-      ],
+      "drawables" : [ { "image" : "/cinematics/teleport/deploypodin_neko.png:<frame>" } ],
       "animationFrames" : 10,
       "keyframes" : [
         {
@@ -207,11 +175,7 @@
       ]
     },
     {
-      "drawables" : [
-        {
-          "image" : "/cinematics/teleport/deploypod_neko.png:<frame>"
-        }
-      ],
+      "drawables" : [ { "image" : "/cinematics/teleport/deploypod_neko.png:<frame>" } ],
       "animationFrames" : 2,
       "keyframes" : [
         {
@@ -260,21 +224,9 @@
     }
   ],
   "audio" : [
-    {
-      "timecode" : 0,
-      "resource" : "/sfx/cinematics/teleporting_loop.ogg"
-    },
-    {
-      "timecode" : 0,
-      "resource" : "/sfx/cinematics/teleporting_start.ogg"
-    },
-    {
-      "timecode" : 0,
-      "resource" : "/sfx/cinematics/despatch_loop.ogg"
-    },
-    {
-      "timecode" : 0,
-      "resource" : "/sfx/statuseffects/powerup.ogg"
-    }
+    { "timecode" : 0, "resource" : "/sfx/cinematics/teleporting_loop.ogg" },
+    { "timecode" : 0, "resource" : "/sfx/cinematics/teleporting_start.ogg" },
+    { "timecode" : 0, "resource" : "/sfx/cinematics/despatch_loop.ogg" },
+    { "timecode" : 0, "resource" : "/sfx/statuseffects/powerup.ogg" }
   ]
 }

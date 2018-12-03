@@ -16,10 +16,7 @@
 
     "parts" : {
       "bg" : {
-        "properties" : {
-          "centered" : false
-        },
-
+        "properties" : { "centered" : false },
         "partStates" : {
           "light" : {
             "off" : {
@@ -38,11 +35,7 @@
         }
       },
       "fg" : {
-        "properties" : {
-          "centered" : false,
-          "zLevel" : 1
-        },
-
+        "properties" : { "centered" : false, "zLevel" : 1 },
         "partStates" : {
           "light" : {
             "off" : {

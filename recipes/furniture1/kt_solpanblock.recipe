@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "glass", "count" : 4 },
-	{ "item" : "tungstenbar", "count" : 2 }
+	  { "item" : "tungstenbar", "count" : 2 }
   ],
   "output" : {
     "item" : "kt_solpanblock",

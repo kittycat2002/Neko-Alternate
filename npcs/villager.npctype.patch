@@ -1,31 +1,23 @@
 [
-	/*
-	{ "op" : "replace",
-		"path" : "/levelVariance",
-		"value" : [ 0, 0 ]
-	},
-	*/
-	{ "op" : "add",
-		"path" : "/items/neko",
-		"value" : [
-			[0, [
-				{
-					"chest" : [
-						{ "name" : "protectorateshirtchest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } },
-						{ "name" : "cowboychest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } },
-						{ "name" : "novakidfancychest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } },
-						{ "name" : "kimonochest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } },
-						{ "name" : "traineechest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } }
-						],
-					"legs" : [
-						{ "name" : "protectoratepants", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } },
-						{ "name" : "deadbeatleatherlegs", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } },
-						{ "name" : "traineelegs", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } },
-						{ "name" : "kimonolegs", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } },
-						{ "name" : "novakidfancypants", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } }
-					]
-				}
-			] ]
-		]
-	}
+	//{ "op" : "replace", "path" : "/levelVariance", "value" : [ 0, 0 ] },
+	{ "op" : "add", "path" : "/items/neko", "value" : [
+		[0, [
+			{
+				"chest" : [
+					{ "name" : "protectorateshirtchest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } },
+					{ "name" : "cowboychest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } },
+					{ "name" : "novakidfancychest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } },
+					{ "name" : "kimonochest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } },
+					{ "name" : "traineechest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } }
+					],
+				"legs" : [
+					{ "name" : "protectoratepants", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } },
+					{ "name" : "deadbeatleatherlegs", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } },
+					{ "name" : "traineelegs", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } },
+					{ "name" : "kimonolegs", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } },
+					{ "name" : "novakidfancypants", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10] } }
+				]
+			}
+		] ]
+	] }
 ]

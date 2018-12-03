@@ -4,6 +4,9 @@
     { "item" : "torch", "count" : 1 },
     { "item" : "glassmaterial", "count" : 1 }
   ],
-  "output" : { "item" : "nekohoveryarn", "count" : 1 },
-  "groups" : [ "craftingfurniture", "lights", "all" ]
+  "output" : {
+    "item" : "nekohoveryarn",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
 }
