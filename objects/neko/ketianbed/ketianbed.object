@@ -17,6 +17,7 @@
   "humanDescription" : "A cat-hair-covered bed.",
   "hylotlDescription" : "A excellently crafted metal and fabric bed.",
   "novakidDescription" : "Good a place as any to take a nap.",
+  "nekoDescription" : "A lovely bed made by our kind. A popular and expensive model too.",
 
   "objectType" : "loungeable",
   "sitFlipDirection" : true,

@@ -17,6 +17,7 @@
   "humanDescription" : "A good comfy bunk bed.",
   "hylotlDescription" : "A glowing metal closed room bed.",
   "novakidDescription" : "Good a place as any to take a nap.",
+  "nekoDescription" : "A cozy private bed, I should take a quick nap.",
 
   "objectType" : "loungeable",
   "sitFlipDirection" : true,

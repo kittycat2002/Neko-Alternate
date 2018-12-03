@@ -16,6 +16,7 @@
   "humanDescription" : "Just a chair.",
   "hylotlDescription" : "A simple chair, it is not comfortable.",
   "novakidDescription" : "Good a place as any to sit down.",
+  "nekoDescription" : "A comfy chair to sit in and eat my food!",
 
   "objectType" : "loungeable",
   "sitFlipDirection" : false,
