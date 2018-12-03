@@ -23,7 +23,7 @@
 
   "sitOrientation" : "lay",
   "sitAngle" : 90,
-  "sitCoverImage" : "/objects/neko/nekobunkbed/ketianbunkbedcover.png",
+  "sitCoverImage" : "/objects/neko/ketianbunkbed/ketianbunkbedcover.png",
   "sitEmote" : "sleep",
   "sitStatusEffects" : [ "bed1" ],
   "sitEffectEmitters" : [ "sleepbubbles" ],

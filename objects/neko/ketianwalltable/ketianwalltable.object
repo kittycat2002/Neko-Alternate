@@ -1,0 +1,70 @@
+{
+	"objectName" : "ketianwalltable",
+	"colonyTags" : ["neko", "ketian"],
+	"rarity" : "Common",
+	"description" : "A glowing metal wall table.",
+	"shortdescription" : "Ketian Wall Table",
+	"race" : "neko",
+  "category" : "furniture",
+	"price" : 125,
+  "printable" : false,
+
+  "apexDescription" : "A decent table.",
+  "avianDescription" : "A nice table.",
+  "floranDescription" : "Floran likess table.",
+  "glitchDescription" : "Indifferent. A table.",
+  "humanDescription" : "A table.",
+  "hylotlDescription" : "An unattractive table.",
+  "novakidDescription" : "Just a table.",
+
+  "inventoryIcon" : "ketiantableicon.png",
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/stonedoor_open_fast.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/stonedoor_close_fast.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "ketiantable.png"
+  },
+
+	"orientations" : [
+  	{
+      "imageLayers" : [ { "image" : "ketiantable.png", "fullbright" : true }, { "image" : "ketiantablelit.png" } ],
+      "imagePosition" : [-24, 0],
+      "renderLayer" : "Object+5",
+      "animationPosition" : [-24, 0],
+  		"flipImages" : true,
+
+      "spaces" : [ [-2, -1], [-2, 0], [-2, 1], [-1, -1], [-1, 0], [-1, 1], [0, -1], [0, 0], [0, 1], [1, -1], [1, 0], [1, 1], [2, -1], [2, 0], [2, 1] ],
+  		"anchors" : [ "bottom" ],
+  		"direction" : "left",
+      "collision" : "platform"
+  	},
+  	{
+      "imageLayers" : [ { "image" : "ketiantable.png", "fullbright" : true }, { "image" : "ketiantablelit.png" } ],
+      "imagePosition" : [-24, 0],
+      "renderLayer" : "Object+5",
+      "animationPosition" : [-24, 0],
+
+      "spaces" : [ [-2, -1], [-2, 0], [-2, 1], [-1, -1], [-1, 0], [-1, 1], [0, -1], [0, 0], [0, 1], [1, -1], [1, 0], [1, 1], [2, -1], [2, 0], [2, 1] ],
+  		"anchors" : [ "bottom" ],
+  		"direction" : "right",
+      "collision" : "platform"
+  	}
+	],
+
+  "inputNodes" : [ [-2, 1] ],
+  "outputNodes" : [ [2, -1] ]
+}
