@@ -18,7 +18,8 @@
   "novakidDescription" : "Good a place as any to sit down.",
 
   "objectType" : "loungeable",
-  "sitFlipDirection" : true,
+  "sitFlipDirection" : false,
+  "sitPosition" : [2, 22],
 
   "inventoryIcon" : "ketianstoolicon.png",
   "orientations" : [
@@ -29,8 +30,6 @@
       "frames" : 1,
       "animationCycle" : 1.0,
 
-      "sitPosition" : [2, 14],
-
       "spaces" : [ [ 0, 0 ], [ 1, 0 ] ],
       "anchors" : [ "bottom" ],
   		"direction" : "left"
@@ -40,8 +39,6 @@
       "imagePosition" : [-8, 0],
       "frames" : 1,
       "animationCycle" : 1.0,
-
-      "sitPosition" : [14, 14],
 
       "spaces" : [ [ 0, 0 ], [ 1, 0 ] ],
       "anchors" : [ "bottom" ],
