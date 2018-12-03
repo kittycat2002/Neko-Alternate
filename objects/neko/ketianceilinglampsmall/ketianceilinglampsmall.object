@@ -5,10 +5,7 @@
   "description" : "A metallic light fixture.",
   "shortdescription" : "Ketian Ceiling Lamp",
   "race" : "neko",
-  "category" : "light",
-  "price" : 90,
   "printable" : false,
-  "lightColor" : [122, 177, 204],
 
   "apexDescription" : "A light fixture made from metal.",
   "avianDescription" : "It's a light, but not an attractive one.",
@@ -17,6 +14,10 @@
   "humanDescription" : "These lights are great, until they start flickering.",
   "hylotlDescription" : "This light is harsh and unforgiving.",
   "novakidDescription" : "A light that works, what more could you want?",
+
+  "category" : "light",
+  "price" : 90,
+  "lightColor" : [122, 177, 204],
 
   "inventoryIcon" : "ketianceilinglampsmallicon.png",
   "orientations" : [
@@ -40,6 +41,9 @@
       "anchors" : [ "top" ]
     }
   ],
+
+
+
 
   "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
   "animationCustom" : {
