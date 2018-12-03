@@ -48,7 +48,6 @@
       "off" : [ "/sfx/objects/tinywallswitch.ogg" ]
     }
   },
-  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
   "animationParts" : {
     "bg" : "ketiandesklamp.png",
     "fg" : "ketiandesklamplit.png"
