@@ -13,7 +13,7 @@
 
   "inventoryIcon" : "nekoswordicon.png",
 
-  "animation" : "/items/active/weapons/melee/nekosword/nekoenergybroadsword.animation",
+  "animation" : "/items/active/weapons/neko/melee/nekosword/nekoenergybroadsword.animation",
   "animationParts" : {
     "handle" : "nekohandle.png",
     "handleFullbright" : "nekohandlefullbright.png",
@@ -27,7 +27,7 @@
     }
   },
 
-  "scripts" : ["/items/active/weapons/melee/nekoenergymeleeweapon.lua"],
+  "scripts" : ["/items/active/weapons/neko/melee/nekoenergymeleeweapon.lua"],
 
   "activeTime" : 3.0,
 
