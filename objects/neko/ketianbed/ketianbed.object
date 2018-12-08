@@ -1,6 +1,6 @@
 {
 	"objectName" : "ketianbed",
-	"colonyTags" : [ "neko", "ketian" ],
+	"colonyTags" : [ "misc", "neko", "ketian" ],
 	"rarity" : "Common",
 	"shortdescription" : "Large Ketian Bed",
 	"description" : "A comfy queen-sized ketian bed.",
@@ -8,7 +8,6 @@
   "category" : "furniture",
 	"price" : 125,
   "printable" : false,
-
 
   "apexDescription" : "A very beautiful and comfy bed. There apears to be cat hair on the sheets.",
   "avianDescription" : "This is a very shiney bed. I smell a cat!",
