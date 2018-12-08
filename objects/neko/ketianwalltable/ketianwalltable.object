@@ -18,7 +18,7 @@
   "novakidDescription" : "Just a table.",
   "nekoDescription" : "A classic case of where did the table go?",
 
-  "inventoryIcon" : "ketiantableicon.png",
+  "inventoryIcon" : "ketianwalltableicon.png",
 
   "scripts" : [ "/objects/wired/door/door.lua" ],
   "scriptDelta" : 5,
