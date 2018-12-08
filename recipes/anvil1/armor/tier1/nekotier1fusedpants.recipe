@@ -1,6 +1,6 @@
 {
 	"input" : [
-		{ "item" : "nekotier1activepants", "count" : 1 }
+		{ "item" : "nekotier1activepants", "count" : 1 },
 		{ "item" : "nekotier1passivepants", "count" : 1 }
 	],
 	"duration" : 5,

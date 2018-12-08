@@ -1,6 +1,6 @@
 {
 	"input" : [
-		{ "item" : "fabic", "count" : 3 },
+		{ "item" : "fabric", "count" : 3 },
     { "item" : "string", "count": 1 }
 	],
 	"duration" : 5,
