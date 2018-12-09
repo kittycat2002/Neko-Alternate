@@ -22,13 +22,13 @@
 //Anvil
 			{ "item" : "nekotier1activehead" },
 			{ "item" : "nekotier1activechest" },
-			{ "item" : "humantier1activepants" },
+			{ "item" : "nekotier1activepants" },
 			{ "item" : "nekotier1fusedhead" },
 			{ "item" : "nekotier1fusedchest" },
-			{ "item" : "humantier1fusedpants" },
+			{ "item" : "nekotier1fusedpants" },
 			{ "item" : "nekotier1passivehead" },
 			{ "item" : "nekotier1passivechest" },
-			{ "item" : "humantier1passivepants" },
+			{ "item" : "nekotier1passivepants" },
 
 			{ "item" : "humantier1head" },
 			{ "item" : "humantier1chest" },
