@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "legarmour",
   "description" : "Mediumweight pants suited for battle at great distances.",
-  "shortdescription" : "Fusion Legs",
+  "shortdescription" : "Fusion Pants",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pants.png",
