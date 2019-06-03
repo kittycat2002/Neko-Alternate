@@ -10,6 +10,7 @@
       [null, "unique.0", "unique.1", "unique.2", "unique.3", "unique.4", "unique.5", "unique.6", "unique.7"]
     ]
   },
+
   "aliases" : {
     "idle.0" : "idle",
     "idle.1" : "idle",

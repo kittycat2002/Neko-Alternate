@@ -1,0 +1,77 @@
+{
+	"objectName" : "ketianwalltable",
+	"colonyTags" : ["neko", "ketian"],
+	"rarity" : "Common",
+	"description" : "A glowing metal wall table.",
+	"shortdescription" : "Ketian Wall Table",
+	"race" : "neko",
+  "category" : "furniture",
+	"price" : 125,
+  "printable" : false,
+
+  "apexDescription" : "A decent table.",
+  "avianDescription" : "A nice table.",
+  "floranDescription" : "Floran likess table.",
+  "glitchDescription" : "Indifferent. A table.",
+  "humanDescription" : "A table.",
+  "hylotlDescription" : "An unattractive table.",
+  "novakidDescription" : "Just a table.",
+  "nekoDescription" : "A classic case of where did the table go?",
+
+  "inventoryIcon" : "ketianwalltableicon.png",
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "openMaterials" : [ ],
+
+  "openMaterialSpaces" : [
+	  [[-2,1],"metamaterial:objectplatform"],
+	  [[-1,1],"metamaterial:objectplatform"],
+	  [[ 0,1],"metamaterial:objectplatform"],
+	  [[ 1,1],"metamaterial:objectplatform"],
+	  [[ 2,1],"metamaterial:objectplatform"]
+  ],
+
+  "closedMaterials" : [ ],
+
+  "closedMaterialSpaces" : [ ],
+
+  "defaultState": "open",
+
+  "animation" : "/objects/neko/ketianwalltable/walltable.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/stonedoor_open_fast.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/stonedoor_close_fast.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "bg" : "ketianwalltable.png",
+    "fg" : "ketianwalltablelit.png"
+  },
+  "animationPosition" : [-24, 0],
+
+	"orientations" : [
+  	{
+      "dualImage" : "ketianwalltable.png:default",
+      "imagePosition" : [-24, 0],
+      "renderLayer" : "Object+5",
+
+      "spaces" : [
+        [-2,  2], [-1,  2], [0,  2], [2,  2], [2,  2],
+        [-2,  1], [-1,  1], [0,  1], [2,  1], [2,  1],
+        [-2,  0], [-1,  0], [0,  0], [2,  0], [2,  0]
+      ],
+  		"anchors" : [ "bottom" ]
+  	}
+	],
+
+  "inputNodes" : [ [-1, 0] ]
+}

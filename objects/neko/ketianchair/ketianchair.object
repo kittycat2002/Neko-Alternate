@@ -1,0 +1,50 @@
+{
+  "objectName" : "ketianchair",
+  "colonyTags" : ["neko", "ketian"],
+  "rarity" : "Common",
+  "description" : "A chair for relaxing or eating!",
+  "shortdescription" : "Ketian Chair",
+  "race" : "ketian",
+  "category" : "furniture",
+  "price" : 75,
+  "printable" : false,
+
+  "apexDescription" : "A chair.",
+  "avianDescription" : "A chair.",
+  "floranDescription" : "Sssimple chair.",
+  "glitchDescription" : "Neutral. A chair.",
+  "humanDescription" : "Just a chair.",
+  "hylotlDescription" : "A simple chair, it is not comfortable.",
+  "novakidDescription" : "Good a place as any to sit down.",
+  "nekoDescription" : "A comfy chair to sit in and eat my food!",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [2, 22],
+  "sitCoverImage" : "/objects/neko/ketianchair/ketianchaircover.png",
+
+  "inventoryIcon" : "ketianchairicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "ketianchair.png", "fullbright" : true }, { "image" : "ketianchairlit.png" } ],
+  		"flipImages" : true,
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+  		"direction" : "left"
+    },
+    {
+      "imageLayers" : [ { "image" : "ketianchair.png", "fullbright" : true }, { "image" : "ketianchairlit.png" } ],
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+  		"direction" : "right"
+    }
+  ]
+}

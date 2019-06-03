@@ -1,0 +1,13 @@
+{
+	"input" : [
+		{ "item" : "copperbar", "count" : 1 },
+    { "item" : "fabric", "count" : 3 },
+    { "item" : "string", "count" : 1 }
+	],
+	"duration" : 5,
+	"output" : {
+    "item" : "nekotier1passivechest",
+    "count" : 1
+  },
+	"groups" : [ "craftinganvil", "armours", "all" ]
+}

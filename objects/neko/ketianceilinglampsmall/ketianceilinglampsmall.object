@@ -1,0 +1,68 @@
+{
+  "objectName" : "ketianceilinglampsmall",
+  "colonyTags" : ["neko", "ketian", "light"],
+  "rarity" : "Common",
+  "description" : "A metallic light fixture.",
+  "shortdescription" : "Ketian Ceiling Lamp",
+  "race" : "neko",
+  "printable" : false,
+
+  "apexDescription" : "A light fixture made from metal.",
+  "avianDescription" : "It's a light, but not an attractive one.",
+  "floranDescription" : "Shiny lightsss.",
+  "glitchDescription" : "Impressed. This light functions superbly.",
+  "humanDescription" : "These lights are great, until they start flickering.",
+  "hylotlDescription" : "This light is harsh and unforgiving.",
+  "novakidDescription" : "A light that works, what more could you want?",
+  "nekoDescription" : "Ooo a shiney thing on the ceiling!",
+
+  "category" : "light",
+  "price" : 90,
+  "lightColor" : [122, 177, 204],
+
+  "inventoryIcon" : "ketianceilinglampsmallicon.png",
+  "orientations" : [
+    {
+      "image" : "ketianceilinglampsmall.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+
+      "direction" : "left",
+
+      "flipImages" : true,
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    },
+    {
+      "image" : "ketianceilinglampsmall.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ],
+
+
+
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/tinywallswitch.ogg" ],
+      "off" : [ "/sfx/objects/tinywallswitch.ogg" ]
+    }
+  },
+  "animationParts" : {
+    "bg" : "ketianceilinglampsmall.png",
+    "fg" : "ketianceilinglampsmalllit.png"
+  },
+  "animationPosition" : [0, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+}

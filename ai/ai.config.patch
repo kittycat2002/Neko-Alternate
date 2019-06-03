@@ -1,10 +1,7 @@
 [
-	{ "op" : "add",
-		"path" : "/species/neko",
-		"value" : {
-			"aiFrames" : "nekoai.png",
-			"portraitFrames" : "portraits/nekoportrait.png",
-			"staticFrames" : "staticGlitch.png"
-		}
-	}
+	{ "op" : "add", "path" : "/species/neko", "value" : {
+		"aiFrames" : "nekoai.png",
+		"portraitFrames" : "portraits/nekoportrait.png",
+		"staticFrames" : "staticGlitch.png"
+	} }
 ]

@@ -1,0 +1,45 @@
+{
+	"objectName" : "ketiantable",
+	"colonyTags" : ["neko", "ketian"],
+	"rarity" : "Common",
+	"description" : "A glowing metal table.",
+	"shortdescription" : "Ketian Table",
+	"race" : "neko",
+  "category" : "furniture",
+	"price" : 125,
+  "printable" : false,
+
+  "apexDescription" : "A decent table.",
+  "avianDescription" : "A nice table.",
+  "floranDescription" : "Floran likess table.",
+  "glitchDescription" : "Indifferent. A table.",
+  "humanDescription" : "A table.",
+  "hylotlDescription" : "An unattractive table.",
+  "novakidDescription" : "Just a table.",
+  "nekoDescription" : "Shiney table!",
+
+  "inventoryIcon" : "ketiantableicon.png",
+	"orientations" : [
+  	{
+      "imageLayers" : [ { "image" : "ketiantable.png", "fullbright" : true }, { "image" : "ketiantablelit.png" } ],
+  		"flipImages" : true,
+      "imagePosition" : [-24, 0],
+			"frames" : 1,
+
+      "spaceScan" : 0.1,
+  		"anchors" : [ "bottom" ],
+  		"direction" : "left",
+      "collision" : "platform"
+  	},
+  	{
+      "imageLayers" : [ { "image" : "ketiantable.png", "fullbright" : true }, { "image" : "ketiantablelit.png" } ],
+      "imagePosition" : [-24, 0],
+			"frames" : 1,
+
+      "spaceScan" : 0.1,
+  		"anchors" : [ "bottom" ],
+  		"direction" : "right",
+      "collision" : "platform"
+  	}
+	]
+}
