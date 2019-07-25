@@ -1,8 +1,10 @@
 {
   "input" : [
     { "item" : "fabric", "count" : 3 }
-
   ],
-  "output" : { "item" : "nekobanner", "count" : 1 },
+  "output" : {
+    "item" : "nekobanner",
+    "count" : 1
+  },
   "groups" : [ "craftingfurniture", "decoration", "all" ]
 }

@@ -1,18 +1,14 @@
 [
-  {
-    "op": "add",
-    "path": "/scriptConfig/chatSounds/neko",
-    "value": {
-      "male": [
-        "/sfx/humanoid/hylotl_chatter_female1.ogg",
-        "/sfx/humanoid/hylotl_chatter_female2.ogg",
-        "/sfx/humanoid/hylotl_chatter_female3.ogg"
-      ],
-      "female": [
-        "/sfx/humanoid/hylotl_chatter_female1.ogg",
-        "/sfx/humanoid/hylotl_chatter_female2.ogg",
-        "/sfx/humanoid/hylotl_chatter_female3.ogg"
-      ]
-    }
-  }
+  { "op": "add", "path": "/scriptConfig/chatSounds/neko", "value": {
+    "male": [
+      "/sfx/humanoid/hylotl_chatter_female1.ogg",
+      "/sfx/humanoid/hylotl_chatter_female2.ogg",
+      "/sfx/humanoid/hylotl_chatter_female3.ogg"
+    ],
+    "female": [
+      "/sfx/humanoid/hylotl_chatter_female1.ogg",
+      "/sfx/humanoid/hylotl_chatter_female2.ogg",
+      "/sfx/humanoid/hylotl_chatter_female3.ogg"
+    ]
+  } }
 ]

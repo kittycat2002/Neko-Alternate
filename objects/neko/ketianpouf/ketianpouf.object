@@ -1,0 +1,49 @@
+{
+  "objectName" : "ketianpouf",
+  "colonyTags" : ["neko", "ketian"],
+  "rarity" : "Common",
+  "description" : "A pouf!",
+  "shortdescription" : "Ketian Pouf",
+  "race" : "ketian",
+  "category" : "furniture",
+  "price" : 75,
+  "printable" : false,
+
+  "apexDescription" : "A chair.",
+  "avianDescription" : "A chair.",
+  "floranDescription" : "Sssimple chair.",
+  "glitchDescription" : "Neutral. A chair.",
+  "humanDescription" : "Just a chair.",
+  "hylotlDescription" : "A simple chair, it is not comfortable.",
+  "novakidDescription" : "Good a place as any to sit down.",
+  "nekoDescription" : "A nice small comfy chair to sit on. Its like a human's beenbag!",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [2, 22],
+
+  "inventoryIcon" : "ketianpouficon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "ketianpouf.png", "fullbright" : true }, { "image" : "ketianpouflit.png" } ],
+  		"flipImages" : true,
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaces" : [ [ 0, 0 ], [ 1, 0 ] ],
+      "anchors" : [ "bottom" ],
+  		"direction" : "left"
+    },
+    {
+      "imageLayers" : [ { "image" : "ketianpouf.png", "fullbright" : true }, { "image" : "ketianpouflit.png" } ],
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaces" : [ [ 0, 0 ], [ 1, 0 ] ],
+      "anchors" : [ "bottom" ],
+  		"direction" : "right"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+	"input" : [
+		{ "item" : "nekotier1activechest", "count" : 1 },
+		{ "item" : "nekotier1passivechest", "count" : 1 }
+	],
+	"duration" : 5,
+	"output" : {
+    "item" : "nekotier1fusedchest",
+    "count" : 1
+  },
+	"groups" : [ "craftinganvil", "armours", "all" ]
+}

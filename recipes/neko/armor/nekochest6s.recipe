@@ -1,9 +1,0 @@
-{
-	"input" : [
-		{ "item" : "solariumstar", "count" : 20 },
-		{ "item" : "nekotier5schest", "count" : 1 }
-	],
-	"duration" : 5,
-	"output" : { "item" : "nekotier6schest", "count" : 1 },
-	"groups" : [ "craftingseparator", "armours", "all" ]
-}

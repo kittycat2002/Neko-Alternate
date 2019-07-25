@@ -4,18 +4,18 @@
     { "op": "add", "path": "/learnBlueprintsOnPickup", "value": [] }
   ],
   [
-	{ "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "kt_solpanblock" }
+	  { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "kt_solpanblock" }
   ],
   [
-	{ "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "nekolight" }
+	  { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "nekolight" }
   ],
   [
-	{ "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "nekomonitor" }
+	  { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "nekomonitor" }
   ],
   [
-	{ "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "nekohoveryarn" }
+	  { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "nekohoveryarn" }
   ],
   [
-	{ "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "nekoshipdoor" }
+	  { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "nekoshipdoor" }
   ]
 ]

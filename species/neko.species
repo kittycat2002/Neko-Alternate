@@ -1,62 +1,68 @@
 {
   "kind" : "neko",
   "playerSpecies" : true,
+
   "charCreationTooltip" : {
 		"title" : "Neko",
 		"subTitle" : "N",
 		"description" : "This type of species, are very mysterious and seems to be very xenophobic. Somehow they are extremly adaptable to cold eviroments. Unknown cause. Some seem to have a symbiosis with tentacles, which is odd. Unknown cause. Highly intelligent but very hostile."
 	},
+
   "nameGen" : [ "/species/nekonamegen.config:names", "/species/nekonamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/humanhurt_male1.ogg", "/sfx/humanoid/humanhurt_female1.ogg" ],
   "gruntNoises" : [ [ "/sfx/humanoid/humangrunt1.ogg", "/sfx/humanoid/humangrunt2.ogg" ], [ "/sfx/humanoid/humangrunt1.ogg", "/sfx/humanoid/humangrunt2.ogg" ] ],
-  "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Underwear", "Hair/Tail colour", "Shirt colour", "Legwear colour", "NEKO", "Personality" ],
-  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=C399FF?replace=31a6ffFF=9A59E3",
+  "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Miscellaneous", "Hair/Tail colour", "Shirt colour", "Legwear colour", "NEKO", "Personality" ],
   "skull" : "/humanoid/human/dead.png",
-   "defaultBlueprints" : {
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=C399FF?replace=31a6ffFF=9A59E3",
+  "defaultBlueprints" : {
 		"tier1" : [
-			//Empty hands
+//Empty hands
 			{ "item" : "flagneko" },
-			//Anvil
+
+//Anvil
+			{ "item" : "nekotier1activehead" },
+			{ "item" : "nekotier1activechest" },
+			{ "item" : "nekotier1activepants" },
+			{ "item" : "nekotier1fusedhead" },
+			{ "item" : "nekotier1fusedchest" },
+			{ "item" : "nekotier1fusedpants" },
+			{ "item" : "nekotier1passivehead" },
+			{ "item" : "nekotier1passivechest" },
+			{ "item" : "nekotier1passivepants" },
+
 			{ "item" : "humantier1head" },
 			{ "item" : "humantier1chest" },
 			{ "item" : "humantier1pants" },
 			{ "item" : "humantier2head" },
 			{ "item" : "humantier2chest" },
 			{ "item" : "humantier2pants" },
+
 			{ "item" : "ironshortsword" },
 			{ "item" : "ironbroadsword" },
 			{ "item" : "tungstenaxe" },
 			{ "item" : "tungstenhammer" },
-			//Anvil 2
+
+//Anvil 2
 			{ "item" : "humantier3head" },
 			{ "item" : "humantier3chest" },
 			{ "item" : "humantier3pants" },
 			{ "item" : "humantier4head" },
 			{ "item" : "humantier4chest" },
 			{ "item" : "humantier4pants" },
+
 			{ "item" : "titaniumdagger" },
 			{ "item" : "titaniumspear" },
 			{ "item" : "durasteelbroadsword" },
 			{ "item" : "durasteelshortsword" },
-			//Anvil 3
-			{ "item" : "humantier5achest" },
-			{ "item" : "humantier5schest" },
-			{ "item" : "humantier5mchest" },
-			{ "item" : "humantier6achest" },
-			{ "item" : "humantier6schest" },
-			{ "item" : "humantier6mchest" },
-			{ "item" : "humantier5apants" },
-			{ "item" : "humantier5spants" },
-			{ "item" : "humantier5mpants" },
-			{ "item" : "humantier6apants" },
-			{ "item" : "humantier6spants" },
-			{ "item" : "humantier6mpants" },
-			{ "item" : "humantier5ahead" },
-			{ "item" : "humantier5shead" },
-			{ "item" : "humantier5mhead" },
-			{ "item" : "humantier6ahead" },
-			{ "item" : "humantier6shead" },
-			{ "item" : "humantier6mhead" },
+
+// Anvil3
+      { "item" : "humantier5ahead" },
+      { "item" : "humantier5achest" },
+      { "item" : "humantier5apants" },
+      { "item" : "humantier6ahead" },
+      { "item" : "humantier6achest" },
+      { "item" : "humantier6apants" },
+
 			{ "item" : "aegisaltpistol" },
 			{ "item" : "aegisaltbow" },
 			{ "item" : "feroziumwand" },
@@ -64,38 +70,13 @@
 			{ "item" : "violiumshortsword" },
 			{ "item" : "violiumbroadsword" },
 			{ "item" : "nekosword" },
-			// Furniture
-			{ "item" : "nekoshipdoor" },
-			{ "item" : "nekoshiphatch" },
-			//Spinning wheel
-			{ "item" : "catcorsetchest" },
-			{ "item" : "conceptchest" },
-			{ "item" : "conceptlegs" },
-			{ "item" : "coolchest" },
-			{ "item" : "coollegs" },
-			{ "item" : "nekocrafterchest" },
-			{ "item" : "nekocrafterlegs" },
-			{ "item" : "nekonoblechest" },
-			{ "item" : "nekonoblelegs" },
-			{ "item" : "nekoriderchest" },
-			{ "item" : "nekoriderlegs" },
-			{ "item" : "justajacket" },
-			{ "item" : "kendolegs" },
-			{ "item" : "kimonochest" },
-			{ "item" : "kimonolegs" },
-			{ "item" : "peploslegs" },
-			{ "item" : "retrodresschest" },
-			{ "item" : "retrodresslegs" },
-			{ "item" : "sweater" },
-			{ "item" : "workoutchest" },
-			{ "item" : "workoutlegs" },
-      // Food
-			{ "item" : "burger" },
-			{ "item" : "bread" },
-			{ "item" : "sweetcorn" },
-			{ "item" : "candyapple" },
-			{ "item" : "icecream" }
 
+// Furniture
+			{ "item" : "nekostoragelocker" },
+			{ "item" : "nekoshipdoor" },
+			{ "item" : "nekoshiphatch" }
+//Spinning wheel
+      // NONE
 		]
 	},
   "altOptionAsUndyColor" : true,
@@ -106,9 +87,9 @@
       "name" : "male",
       "image" : "/interface/title/male.png",
       "characterImage" : "/interface/title/nekomale.png",
-      "hair" : [ "male1", "male2", "male3", "male7", "male9", "male10", "male11", "male12", "male14", "male15", "male17", "male18", "male19", "male21", "male22", "male23", "male24", "male25", "male26", "male28", "male29", "male32", "male33", "male34", "male36", "male37", "male38", "male39", "male40", "male41", "male42", "male43", "male44", "male45", "male46", "male48", "male50", "male51", "male52", "male54", "male56", "male57", "male58", "male59", "male60", "male61", "male62", "osu001", "osu002", "osu003", "osu004", "osu005", "osu006", "osu007", "osu008", "osu009", "osu010", "osu011", "osu012", "osu013", "osu014", "osu015", "osu016", "osu017", "osu018", "osu019" ], //  "hair2cut" "hair9cut"
-      "shirt" : [ "workoutchest", "coolchest", "conceptchest", "sweatervestchest", "protectoratevestchest" ],
-      "pants" : [ "workoutlegs", "coollegs", "conceptlegs", "sweatervestlegs" ],
+      "hair" : [ "mesu001", "mesu002", "mesu003", "mesu004", "mesu005", "mesu006", "mesu008", "mesu009", "mesu010", "mesu011", "mesu012", "mesu013", "mesu014", "mesu015", "mesu016", "mesu017", "mesu018", "mesu020", "mesu021", "mesu022", "mesu023", "mesu024", "mesu025", "mesu026", "mesu027", "mesu028", "mesu029", "mesu030", "mesu031", "mesu032", "mesu033", "mesu035", "mesu036", "mesu037", "mesu038", "mesu039", "mesu040", "mesu041", "mesu042", "mesu043", "mesu044", "mesu045", "mesu046", "mesu047", "mesu048", "mesu050", "osu001", "osu002", "osu003", "osu004", "osu005", "osu006", "osu007", "osu008", "osu009", "osu010", "osu011", "osu012", "osu013", "osu014", "osu015", "osu016", "osu017", "osu018", "osu019" ],
+      "shirt" : [ "workoutchest", "coolchest", "conceptchest", "sweatervestchest", "hoodiechest", "hoodiechest2", "protectorateshirtchest", "protectoratevestchest" ],
+      "pants" : [ "workoutlegs", "coollegs", "conceptlegs", "sweatervestlegs", "jeans1legs", "jeans2legs", "jeans3legs" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
@@ -118,9 +99,9 @@
       "name" : "female",
       "image" : "/interface/title/female.png",
       "characterImage" : "/interface/title/nekofemale.png",
-      "hair" : [ "mesu001", "mesu002", "mesu003", "mesu004", "mesu005", "mesu006", "mesu008", "mesu009", "mesu010", "mesu011", "mesu012", "mesu013", "mesu014", "mesu015", "mesu016", "mesu017", "mesu018", "mesu020", "mesu021", "mesu022", "mesu023", "mesu024", "mesu025", "mesu026", "mesu027", "mesu028", "mesu029", "mesu030", "mesu031", "mesu032", "mesu033", "mesu035", "mesu036", "mesu037", "mesu038", "mesu039", "mesu040", "mesu041", "mesu042", "mesu043", "mesu044", "mesu045", "mesu046", "mesu047", "mesu048", "mesu050" ], //  "hair2cut" "hair9cut"
-      "shirt" : [ "workoutchest", "coolchest", "conceptchest", "sweatervestchest", "protectoratevestchest" ],
-      "pants" : [ "workoutlegs", "coollegs", "conceptlegs", "sweatervestlegs" ],
+      "hair" : [ "mesu001", "mesu002", "mesu003", "mesu004", "mesu005", "mesu006", "mesu008", "mesu009", "mesu010", "mesu011", "mesu012", "mesu013", "mesu014", "mesu015", "mesu016", "mesu017", "mesu018", "mesu020", "mesu021", "mesu022", "mesu023", "mesu024", "mesu025", "mesu026", "mesu027", "mesu028", "mesu029", "mesu030", "mesu031", "mesu032", "mesu033", "mesu035", "mesu036", "mesu037", "mesu038", "mesu039", "mesu040", "mesu041", "mesu042", "mesu043", "mesu044", "mesu045", "mesu046", "mesu047", "mesu048", "mesu050", "osu001", "osu002", "osu003", "osu004", "osu005", "osu006", "osu007", "osu008", "osu009", "osu010", "osu011", "osu012", "osu013", "osu014", "osu015", "osu016", "osu017", "osu018", "osu019" ],
+      "shirt" : [ "workoutchest", "coolchest", "conceptchest", "sweatervestchest", "hoodiechest", "hoodiechest2", "protectorateshirtchest", "protectoratevestchest" ],
+      "pants" : [ "workoutlegs", "coollegs", "conceptlegs", "sweatervestlegs", "jeans1legs", "jeans2legs", "jeans3legs" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",

@@ -1,0 +1,21 @@
+{
+  "itemName" : "nekofibredye",
+  "price" : 45,
+  "rarity" : "Uncommon",
+  "category" : "clothingDye",
+  "inventoryIcon" : "nekofibredye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Neko Fibre Dye",
+
+	"dyeDirectives": {
+		"ffca8a": "712BB7",
+		"e0975c": "5D1F9C",
+		"a85636": "481082",
+		"6f2919": "310066"
+	},
+	"dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

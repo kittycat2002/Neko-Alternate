@@ -1,17 +1,4 @@
 [
-	{
-		"op": "add",
-		"path": "/initialquests/neko",
-		"value": [
-			"protectorate"
-		]
-	},
-	{
-		"op": "add",
-		"path": "/pronounGenders/neko",
-		"value": {
-			"male": "neutral",
-			"female": "neutral"
-		}
-	}
+	{ "op": "add", "path": "/initialquests/neko", "value": [ "protectorate" ] },
+	{ "op": "add", "path": "/pronounGenders/neko", "value": { "male": "neutral", "female": "neutral" } }
 ]

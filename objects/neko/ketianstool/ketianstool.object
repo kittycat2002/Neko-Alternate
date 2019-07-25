@@ -1,0 +1,49 @@
+{
+  "objectName" : "ketianstool",
+  "colonyTags" : ["neko", "ketian"],
+  "rarity" : "Common",
+  "description" : "A stool!",
+  "shortdescription" : "Ketian Stool",
+  "race" : "ketian",
+  "category" : "furniture",
+  "price" : 75,
+  "printable" : false,
+
+  "apexDescription" : "A chair.",
+  "avianDescription" : "A chair.",
+  "floranDescription" : "Sssimple chair.",
+  "glitchDescription" : "Neutral. A chair.",
+  "humanDescription" : "Just a chair.",
+  "hylotlDescription" : "A simple chair, it is not comfortable.",
+  "novakidDescription" : "Good a place as any to sit down.",
+  "nekoDescription" : "Watch me spin!",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [2, 22],
+
+  "inventoryIcon" : "ketianstoolicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "ketianstool.png", "fullbright" : true }, { "image" : "ketianstoollit.png" } ],
+  		"flipImages" : true,
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaces" : [ [ 0, 0 ], [ 1, 0 ] ],
+      "anchors" : [ "bottom" ],
+  		"direction" : "left"
+    },
+    {
+      "imageLayers" : [ { "image" : "ketianstool.png", "fullbright" : true }, { "image" : "ketianstoollit.png" } ],
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaces" : [ [ 0, 0 ], [ 1, 0 ] ],
+      "anchors" : [ "bottom" ],
+  		"direction" : "right"
+    }
+  ]
+}

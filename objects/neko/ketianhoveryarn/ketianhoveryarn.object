@@ -1,0 +1,62 @@
+{
+  "objectName" : "ketianhoveryarn",
+  "colonyTags" : ["neko", "ketian", "misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : true,
+
+
+  "description" : "It's entrancing. I can't look away.",
+  "shortdescription" : "Ketian hover yarn",
+  "race" : "neko",
+
+  "lightColor" : [0, 0, 0],
+
+  "apexDescription" : "This lamp is a waste of energy.",
+  "avianDescription" : "An orb shaped lamp moving in a hypnotic way.",
+  "floranDescription" : "Bouncy lamp isss nice!",
+  "glitchDescription" : "Appreciative. I enjoy this trinket, despite its lack in purpose.",
+  "humanDescription" : "Funky ball lamp! That's what I call it.",
+  "hylotlDescription" : "A calming, orb shaped lamp.",
+  "novakidDescription" : "This lamp just keeps goin'.",
+
+  "inventoryIcon" : "ketianhoveryarnicon.png",
+  "orientations" : [
+    {
+      "image" : "ketianhoveryarn.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : []
+    },
+    {
+      "image" : "ketianhoveryarn.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ],
+
+  "animation" : "ketianhoveryarn.animation",
+  "animationParts" : {
+    "bg" : "ketianhoveryarn.png",
+    "fg" : "ketianhoveryarnlit.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/screen3.ogg" ],
+      "off" : [ "/sfx/objects/screen2.ogg" ]
+    }
+  },
+  "animationPosition" : [0, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ]
+}

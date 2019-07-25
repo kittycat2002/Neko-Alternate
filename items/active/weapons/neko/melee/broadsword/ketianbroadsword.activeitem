@@ -1,0 +1,42 @@
+{
+  "itemName" : "ketianbroadsword",
+  "price" : 800,
+  "level" : 3,
+  "maxStack" : 1,
+  "rarity" : "uncommon",
+  "description" : "Forged from carbon.
+^cyan;Inflicts burning^reset;",
+  "shortdescription" : "Ketian Broadsword",
+  "tooltipKind" : "sword2",
+  "category" : "broadsword",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","broadsword", "upgradeableWeapon", "neko", "ketian" ],
+  "collectablesOnPickup" : {},
+  "inventoryIcon" : "ketian_broadsword.png",
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadswordglow.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "ketian_broadsword.png",
+	  "bladefullbright" : "ketian_broadswordfullbright.png"
+  },
+  "animationCustom" : { },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "fire",
+
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 1.03,
+    "baseDps" : 10.67,
+    "damageConfig" : {
+      "statusEffects" : [ "burning" ]
+    }
+  },
+
+  "altAbilityType" : "traildash",
+
+  "critChance" : 2,
+  "critBonus" : 8,
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}
