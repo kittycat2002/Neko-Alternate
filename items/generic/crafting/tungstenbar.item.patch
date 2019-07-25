@@ -13,7 +13,7 @@
 	  { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "nekomonitor" }
   ],
   [
-	  { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "nekohoveryarn" }
+	  { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "ketianhoveryarn" }
   ],
   [
 	  { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "nekoshipdoor" }
