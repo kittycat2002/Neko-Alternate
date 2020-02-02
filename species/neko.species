@@ -63,6 +63,20 @@
       { "item" : "humantier6achest" },
       { "item" : "humantier6apants" },
 
+      { "item" : "humantier5mhead" },
+      { "item" : "humantier5mchest" },
+      { "item" : "humantier5mpants" },
+      { "item" : "humantier6mhead" },
+      { "item" : "humantier6mchest" },
+      { "item" : "humantier6mpants" },
+
+      { "item" : "humantier5shead" },
+      { "item" : "humantier5schest" },
+      { "item" : "humantier5spants" },
+      { "item" : "humantier6shead" },
+      { "item" : "humantier6schest" },
+      { "item" : "humantier6spants" },
+
 			{ "item" : "aegisaltpistol" },
 			{ "item" : "aegisaltbow" },
 			{ "item" : "feroziumwand" },
